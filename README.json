@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "System Design 101: Explain complex systems using visuals and simple terms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-04T17:30:30Z",
+            "owner": "ByteByteGoHq",
+            "repo": "system-design-101",
+            "stars": 87033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Computer Science courses with video lectures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T17:42:10Z",
+            "owner": "Developer-Y",
+            "repo": "cs-video-courses",
+            "stars": 83044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Design Course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-08T00:36:51Z",
+            "owner": "karanpratapsingh",
+            "repo": "system-design",
+            "stars": 45518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome CTO – resources for Chief Technology Officers and VP R&D",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-02T12:50:21Z",
+            "owner": "kuchin",
+            "repo": "awesome-cto",
+            "stars": 35312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Sysadmin: A curated list of open source sysadmin resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-20T20:39:14Z",
+            "owner": "awesome-foss",
+            "repo": "awesome-sysadmin",
+            "stars": 34893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How To Secure A Linux Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-13T18:25:52Z",
+            "owner": "imthenachoman",
+            "repo": "How-To-Secure-A-Linux-Server",
+            "stars": 30277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Domain-Driven Design, software architecture, design patterns, best practices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-11T05:47:51Z",
+            "owner": "Sairyss",
+            "repo": "domain-driven-hexagon",
+            "stars": 14855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mindmaps for cyber security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-21T15:47:21Z",
+            "owner": "Ignitetechnologies",
+            "repo": "Mindmap",
+            "stars": 9188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A curated and opinionated list of resources for Backend developers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-17T12:56:50Z",
+            "owner": "zhashkevych",
+            "repo": "awesome-backend",
+            "stars": 3437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Network Automation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-01T10:52:36Z",
+            "owner": "networktocode",
+            "repo": "awesome-network-automation",
+            "stars": 2822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Best practices, tools, and guidelines for backend development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-29T22:18:00Z",
+            "owner": "Sairyss",
+            "repo": "backend-best-practices",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resources related to distributed systems, system design, microservices, scalability, and performance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-22T16:52:11Z",
+            "owner": "Sairyss",
+            "repo": "system-design-patterns",
+            "stars": 1253
+          }
+        }
+      ],
+      "title": "Additional and similar resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:19:22.910Z",
+    "original_repository": "cheatsnake/backend-cheats",
+    "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
+    "enhanced_repository": "enhansome/enhansome-backend-cheats",
+    "enhanced_repository_description": null,
+    "title": "Awesome backend cheats with stars"
+  }
+}
