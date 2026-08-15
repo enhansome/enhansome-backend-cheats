@@ -14,7 +14,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87033
+            "stars": 87060
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83044
+            "stars": 83046
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-08T00:36:51Z",
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 45518
+            "stars": 45538
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35312
+            "stars": 35317
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-06-20T20:39:14Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34893
+            "stars": 34903
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14855
+            "stars": 14857
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-07-21T15:47:21Z",
             "owner": "Ignitetechnologies",
             "repo": "Mindmap",
-            "stars": 9188
+            "stars": 9193
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-05-01T10:52:36Z",
             "owner": "networktocode",
             "repo": "awesome-network-automation",
-            "stars": 2822
+            "stars": 2823
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2024-08-29T22:18:00Z",
             "owner": "Sairyss",
             "repo": "backend-best-practices",
-            "stars": 2361
+            "stars": 2362
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2025-01-22T16:52:11Z",
             "owner": "Sairyss",
             "repo": "system-design-patterns",
-            "stars": 1253
+            "stars": 1254
           }
         }
       ],
@@ -176,7 +176,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:19:22.910Z",
+    "last_updated": "2026-08-15T03:07:07.294Z",
     "original_repository": "cheatsnake/backend-cheats",
     "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
     "enhanced_repository": "enhansome/enhansome-backend-cheats",
