@@ -1,7 +1,343 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Operating systems based on Linux kernel are the standard in the world of server development, since most servers run on such operating systems. Using Linux on servers is profitable because it is free and open source, secure and works fast on cheap hardware.\nThere are a huge number of Linux distributions (preinstalled software bundles) to suit all tastes. One of the most popular is Ubuntu. This is where you can start your dive into server development.\nInstall Ubuntu on a separate PC or laptop. If this is not possible, you can use a special program Virtual Box where you can run other OS on top of the main OS. You can also run Docker Ubuntu image container (Docker is a separate topic that is exists in this repository).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome CLI-apps – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38832942,
+            "language": "Shell",
+            "last_commit": "2026-08-18T11:17:14Z",
+            "owner": "agarrharr",
+            "repo": "awesome-cli-apps",
+            "stars": 20187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Terminals – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151992625,
+            "language": null,
+            "last_commit": "2026-07-20T04:11:30Z",
+            "owner": "cdleon",
+            "repo": "awesome-terminals",
+            "stars": 2935
+          }
+        }
+      ],
+      "title": "Linux Basics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 JavaScript Data Structures and Algorithms – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126577260,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T02:43:08Z",
+            "owner": "trekhleb",
+            "repo": "javascript-algorithms",
+            "stars": 196522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Go Data Structures – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31660590,
+            "language": "Go",
+            "last_commit": "2025-03-12T00:01:29Z",
+            "owner": "emirpasic",
+            "repo": "gods",
+            "stars": 17457
+          }
+        }
+      ],
+      "title": "General knowledge"
+    },
+    {
+      "description": "At this stage you have to choose one programming language to study. There is plenty of information on various languages in the Internet (books, courses, thematic sites, etc.), so you should have no problem finding information.\nBelow is a list of specific languages that personally, in my opinion are good for backend development (⚠️ may not agree with the opinions of others, including those more competent in this matter).\nFind a good book or online tutorial in English at this repository. There is a large collection for different languages and frameworks.\nLook for a special awesome repository - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs, and other various resources).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 List of libraries for working with network in Go – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21540759,
+            "language": "Go",
+            "last_commit": "2026-08-19T09:52:23Z",
+            "owner": "avelino",
+            "repo": "awesome-go",
+            "stars": 181507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 A curated list of awesome things related to Django – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129094260,
+            "language": "Python",
+            "last_commit": "2026-08-18T13:46:11Z",
+            "owner": "wsvincent",
+            "repo": "awesome-django",
+            "stars": 11203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 A curated list of awesome Express.js resources – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60465631,
+            "language": null,
+            "last_commit": "2024-11-07T20:17:13Z",
+            "owner": "rajikaimal",
+            "repo": "awesome-express",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Node.js HTTP Server Examples – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42374167,
+            "language": "JavaScript",
+            "last_commit": "2026-02-11T22:07:37Z",
+            "owner": "HowProgrammingWorks",
+            "repo": "NodeServer",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Programming Language"
+    },
+    {
+      "description": "API (Application Programming Interface) an interface which describes a certain set of rules by which different programs (applications, bots, websites...) can interact with each other. With API calls you can execute certain functions of a program without knowing how it works.\nWhen developing server applications, different API formats can be used, depending on the tasks and requirements.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome REST – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35204235,
+            "language": null,
+            "last_commit": "2026-05-13T08:22:14Z",
+            "owner": "marmelab",
+            "repo": "awesome-rest",
+            "stars": 3902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 REST API design full guide – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70672155,
+            "language": null,
+            "last_commit": "2018-11-29T09:59:18Z",
+            "owner": "NationalBankBelgium",
+            "repo": "REST-API-Design-Guide",
+            "stars": 827
+          }
+        }
+      ],
+      "title": "API development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Collection of .gitignore templates – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062897,
+            "language": null,
+            "last_commit": "2026-07-23T16:06:45Z",
+            "owner": "github",
+            "repo": "gitignore",
+            "stars": 175375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Learn Git concepts, not commands – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167593617,
+            "language": null,
+            "last_commit": "2024-07-19T20:10:50Z",
+            "owner": "UnseenWizzard",
+            "repo": "git_training",
+            "stars": 756
+          }
+        }
+      ],
+      "title": "Software"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome AWS (list of libraries, open source repos, guides, blogs) – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44104712,
+            "language": "Python",
+            "last_commit": "2024-03-12T09:29:54Z",
+            "owner": "donnemartin",
+            "repo": "awesome-aws",
+            "stars": 14126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Google Cloud Platform – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 65946967,
+            "language": null,
+            "last_commit": "2024-05-30T16:03:07Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "awesome-google-cloud",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Digital Ocean – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71426860,
+            "language": null,
+            "last_commit": "2021-04-30T21:49:21Z",
+            "owner": "jonleibowitz",
+            "repo": "awesome-digitalocean",
+            "stars": 379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Kubernetes Learning Roadmap – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 566639549,
+            "language": null,
+            "last_commit": "2026-05-28T07:23:40Z",
+            "owner": "techiescamp",
+            "repo": "kubernetes-learning-path",
+            "stars": 7621
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Kubernetes Resources – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 277397770,
+            "language": null,
+            "last_commit": "2025-05-20T14:54:06Z",
+            "owner": "tomhuang12",
+            "repo": "awesome-k8s-resources",
+            "stars": 4208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Swarm – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 602344007,
+            "language": null,
+            "last_commit": "2026-07-01T22:42:27Z",
+            "owner": "BretFisher",
+            "repo": "awesome-swarm",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Elasticsearch – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 45813807,
+            "language": null,
+            "last_commit": "2025-05-07T23:28:38Z",
+            "owner": "dzharii",
+            "repo": "awesome-elasticsearch",
+            "stars": 5051
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Prometheus – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968605138,
+            "language": null,
+            "last_commit": "2024-07-30T18:33:53Z",
+            "owner": "roaldnefs",
+            "repo": "awesome-prometheus",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "Deployment (CI/CD)"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 693342566,
             "language": null,
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87304
+            "stars": 87319
           }
         },
         {
@@ -24,11 +361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71583602,
             "language": null,
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83114
+            "stars": 83122
           }
         },
         {
@@ -38,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 525105056,
             "language": null,
             "last_commit": "2026-07-08T00:36:51Z",
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 45624
+            "stars": 45636
           }
         },
         {
@@ -52,11 +391,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76679496,
             "language": null,
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35341
+            "stars": 35342
           }
         },
         {
@@ -66,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28387406,
             "language": null,
-            "last_commit": "2026-08-16T10:22:10Z",
+            "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34924
+            "stars": 34927
           }
         },
         {
@@ -80,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169839893,
             "language": null,
             "last_commit": "2026-07-13T18:25:52Z",
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 30292
+            "stars": 30295
           }
         },
         {
@@ -94,11 +436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316988921,
             "language": "TypeScript",
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14867
+            "stars": 14866
           }
         },
         {
@@ -108,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591904676,
             "language": null,
             "last_commit": "2026-07-21T15:47:21Z",
             "owner": "Ignitetechnologies",
             "repo": "Mindmap",
-            "stars": 9194
+            "stars": 9197
           }
         },
         {
@@ -122,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 343106069,
             "language": null,
             "last_commit": "2026-04-17T12:56:50Z",
             "owner": "zhashkevych",
@@ -136,11 +481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102978400,
             "language": null,
             "last_commit": "2026-05-01T10:52:36Z",
             "owner": "networktocode",
             "repo": "awesome-network-automation",
-            "stars": 2825
+            "stars": 2826
           }
         },
         {
@@ -150,11 +496,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438960965,
             "language": null,
             "last_commit": "2024-08-29T22:18:00Z",
             "owner": "Sairyss",
             "repo": "backend-best-practices",
-            "stars": 2363
+            "stars": 2364
           }
         },
         {
@@ -164,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 480111702,
             "language": null,
             "last_commit": "2025-01-22T16:52:11Z",
             "owner": "Sairyss",
@@ -176,8 +524,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:12:43.907Z",
+    "last_updated": "2026-08-19T12:18:30.045Z",
     "original_repository": "cheatsnake/backend-cheats",
+    "original_repository_id": 464174913,
     "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
     "enhanced_repository": "enhansome/enhansome-backend-cheats",
     "enhanced_repository_description": null,
