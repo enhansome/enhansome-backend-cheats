@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T21:10:36Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20192
+            "stars": 20204
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-20T04:11:30Z",
             "owner": "cdleon",
             "repo": "awesome-terminals",
-            "stars": 2937
+            "stars": 2938
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196527
+            "stars": 196522
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-19T18:22:56Z",
+            "last_commit": "2026-08-20T13:14:59Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181603
+            "stars": 181737
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-18T13:46:11Z",
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11202
+            "stars": 11204
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-05-13T08:22:14Z",
             "owner": "marmelab",
             "repo": "awesome-rest",
-            "stars": 3903
+            "stars": 3905
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175378
+            "stars": 175379
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-05-30T16:03:07Z",
             "owner": "GoogleCloudPlatform",
             "repo": "awesome-google-cloud",
-            "stars": 918
+            "stars": 917
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2025-05-20T14:54:06Z",
             "owner": "tomhuang12",
             "repo": "awesome-k8s-resources",
-            "stars": 4209
+            "stars": 4210
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2025-05-07T23:28:38Z",
             "owner": "dzharii",
             "repo": "awesome-elasticsearch",
-            "stars": 5051
+            "stars": 5054
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87336
+            "stars": 87366
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83129
+            "stars": 83137
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-07-08T00:36:51Z",
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 45651
+            "stars": 45680
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35345
+            "stars": 35354
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34934
+            "stars": 34942
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-07-13T18:25:52Z",
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 30296
+            "stars": 30301
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14870
+            "stars": 14872
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-07-21T15:47:21Z",
             "owner": "Ignitetechnologies",
             "repo": "Mindmap",
-            "stars": 9197
+            "stars": 9201
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-04-17T12:56:50Z",
             "owner": "zhashkevych",
             "repo": "awesome-backend",
-            "stars": 3437
+            "stars": 3438
           }
         },
         {
@@ -483,10 +483,10 @@
             "archived": false,
             "id": 102978400,
             "language": null,
-            "last_commit": "2026-08-19T23:03:23Z",
+            "last_commit": "2026-08-20T23:18:07Z",
             "owner": "networktocode",
             "repo": "awesome-network-automation",
-            "stars": 2826
+            "stars": 2829
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2024-08-29T22:18:00Z",
             "owner": "Sairyss",
             "repo": "backend-best-practices",
-            "stars": 2364
+            "stars": 2365
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2025-01-22T16:52:11Z",
             "owner": "Sairyss",
             "repo": "system-design-patterns",
-            "stars": 1259
+            "stars": 1258
           }
         }
       ],
@@ -524,7 +524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:12:04.934Z",
+    "last_updated": "2026-08-21T03:18:19.995Z",
     "original_repository": "cheatsnake/backend-cheats",
     "original_repository_id": 464174913,
     "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
