@@ -1,7 +1,114 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Putting the \"You\" in CPU: explainer how your computer runs programs, from start to finish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 648351143,
+            "language": "MDX",
+            "last_commit": "2026-07-03T00:19:33Z",
+            "owner": "hackclub",
+            "repo": "putting-the-you-in-cpu",
+            "stars": 5546
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Operating System Stuff – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82377935,
+            "language": null,
+            "last_commit": "2026-07-27T07:25:24Z",
+            "owner": "jubalh",
+            "repo": "awesome-os",
+            "stars": 2262
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
       "description": "Operating systems based on Linux kernel are the standard in the world of server development, since most servers run on such operating systems. Using Linux on servers is profitable because it is free and open source, secure and works fast on cheap hardware.\nThere are a huge number of Linux distributions (preinstalled software bundles) to suit all tastes. One of the most popular is Ubuntu. This is where you can start your dive into server development.\nInstall Ubuntu on a separate PC or laptop. If this is not possible, you can use a special program Virtual Box where you can run other OS on top of the main OS. You can also run Docker Ubuntu image container (Docker is a separate topic that is exists in this repository).",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "You can use scripts to automate the sequential input of any number of commands. In Bash",
+          "description": "you can create different conditions (branching), loops, timers, etc. to perform all kinds of actions related to shell input.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ShellCheck",
+              "description": "script analysis tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6731432,
+                "language": "Haskell",
+                "last_commit": "2026-08-04T08:32:46Z",
+                "owner": "koalaman",
+                "repo": "shellcheck",
+                "stars": 39915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Basics of Bash Scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591891505,
+                "language": null,
+                "last_commit": "2025-04-07T17:46:04Z",
+                "owner": "cheatsnake",
+                "repo": "bash-scripts-by-example",
+                "stars": 65
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Log files",
+          "description": "are special text files that contain all information about the operation of a computer, program, or user. They are especially useful when bugs and errors occur in the operation of a program or server. It is recommended to periodically review log files, even if nothing suspicious happens.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Log rotation with logrotate",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33591844,
+                "language": "C",
+                "last_commit": "2026-08-01T00:43:50Z",
+                "owner": "logrotate",
+                "repo": "logrotate",
+                "stars": 1545
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Linux Basics"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,7 +122,7 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20230
+            "stars": 20232
           }
         },
         {
@@ -34,7 +141,70 @@
           }
         }
       ],
-      "title": "Linux Basics"
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 HackerRank challenges for Bash with solutions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117837470,
+            "language": "Shell",
+            "last_commit": "2024-04-16T21:18:35Z",
+            "owner": "Thomas-George-T",
+            "repo": "HackerRank-The-Linux-Shell-Challenges-Solutions",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome SSH – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49391609,
+            "language": null,
+            "last_commit": "2023-08-10T10:15:24Z",
+            "owner": "moul",
+            "repo": "awesome-ssh",
+            "stars": 2834
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome console services – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85309968,
+            "language": null,
+            "last_commit": "2026-02-01T08:49:45Z",
+            "owner": "chubin",
+            "repo": "awesome-console-services",
+            "stars": 6508
+          }
+        }
+      ],
+      "title": "🔗 References"
     },
     {
       "description": null,
@@ -51,7 +221,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196545
+            "stars": 196546
           }
         },
         {
@@ -66,14 +236,169 @@
             "last_commit": "2025-03-12T00:01:29Z",
             "owner": "emirpasic",
             "repo": "gods",
-            "stars": 17456
+            "stars": 17457
           }
         }
       ],
-      "title": "General knowledge"
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Code for the book Grokking Algorithms – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52999018,
+            "language": "JavaScript",
+            "last_commit": "2026-04-12T21:10:55Z",
+            "owner": "egonSchiele",
+            "repo": "grokking_algorithms",
+            "stars": 13633
+          }
+        }
+      ],
+      "title": "🔗 References"
     },
     {
       "description": "At this stage you have to choose one programming language to study. There is plenty of information on various languages in the Internet (books, courses, thematic sites, etc.), so you should have no problem finding information.\nBelow is a list of specific languages that personally, in my opinion are good for backend development (⚠️ may not agree with the opinions of others, including those more competent in this matter).\nFind a good book or online tutorial in English at this repository. There is a large collection for different languages and frameworks.\nLook for a special awesome repository - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs, and other various resources).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "By foundations are meant some fundamental ideas present in every language.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Regular expressions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591626838,
+                "language": null,
+                "last_commit": "2023-01-24T18:24:08Z",
+                "owner": "cheatsnake",
+                "repo": "regex-by-example",
+                "stars": 14
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 132750724,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 542529
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "During these long years that programming has existed, a huge amount of code, programs, and entire systems have been written. And as a consequence, there have been all sorts of problems in the development of all this. First of all they were related to scaling, support, and the entry threshold for new developers. Clever people, of course, did not sit still and started to solve these problems, thus creating so-called patterns/principles/approaches for writing high-quality code.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "JavaScript style guide by Airbnb",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6498492,
+                "language": "JavaScript",
+                "last_commit": "2026-04-16T19:24:09Z",
+                "owner": "airbnb",
+                "repo": "javascript",
+                "stars": 148132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node.js best practices list",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103633984,
+                "language": "Dockerfile",
+                "last_commit": "2026-06-15T11:41:04Z",
+                "owner": "goldbergyoni",
+                "repo": "nodebestpractices",
+                "stars": 105600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python style guide by Google",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35969061,
+                "language": "HTML",
+                "last_commit": "2026-06-03T15:51:23Z",
+                "owner": "google",
+                "repo": "styleguide",
+                "stars": 39526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python best practices guidebook",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1481305,
+                "language": "Batchfile",
+                "last_commit": "2026-07-27T05:52:34Z",
+                "owner": "realpython",
+                "repo": "python-guide",
+                "stars": 29777
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go style guide by Uber",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157008425,
+                "language": "Makefile",
+                "last_commit": "2026-04-15T15:10:48Z",
+                "owner": "uber-go",
+                "repo": "guide",
+                "stars": 17659
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "and other…",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57495614,
+                "language": "Ruby",
+                "last_commit": "2023-01-19T09:04:15Z",
+                "owner": "kciter",
+                "repo": "awesome-style-guide",
+                "stars": 1109
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Programming Language"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -87,7 +412,7 @@
             "last_commit": "2026-08-21T06:27:18Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182065
+            "stars": 182107
           }
         },
         {
@@ -102,7 +427,7 @@
             "last_commit": "2026-08-18T13:46:11Z",
             "owner": "wsvincent",
             "repo": "awesome-django",
-            "stars": 11216
+            "stars": 11222
           }
         },
         {
@@ -136,10 +461,171 @@
           }
         }
       ],
-      "title": "Programming Language"
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Multithreading in practice – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372698819,
+            "language": "C++",
+            "last_commit": "2024-02-27T15:27:56Z",
+            "owner": "thanhit95",
+            "repo": "multi-threading",
+            "stars": 197
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Google style guides – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35969061,
+            "language": "HTML",
+            "last_commit": "2026-06-03T15:51:23Z",
+            "owner": "google",
+            "repo": "styleguide",
+            "stars": 39526
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": "Databases (DB) – a set of data that are organized according to certain rules (for example, a library is a database for books).\nDatabase management system (DBMS) is a software that allows you to create a database and manipulate it conveniently (perform various operations on the data). An example of a DBMS is a librarian. He can easily and efficiently work with the books in the library: give out requested books, take them back, add new ones, etc.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "The most popular relational databases: MySQL",
+          "description": ", PostgreSQL, MariaDB, Oracle. A special language SQL (Structured Query Language) is used to work with these databases. It is quite simple and intuitive.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQL basics",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599697134,
+                "language": null,
+                "last_commit": "2023-05-30T18:13:01Z",
+                "owner": "cheatsnake",
+                "repo": "sql-by-example",
+                "stars": 17
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome SQL – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27949400,
+            "language": null,
+            "last_commit": "2026-04-25T14:15:25Z",
+            "owner": "danhuss",
+            "repo": "awesome-sql",
+            "stars": 451
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome MongoDB – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52230198,
+            "language": null,
+            "last_commit": "2026-08-05T15:52:41Z",
+            "owner": "ramnes",
+            "repo": "awesome-mongodb",
+            "stars": 2672
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Redis – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18005221,
+            "language": null,
+            "last_commit": "2024-04-16T17:08:56Z",
+            "owner": "JamzyWang",
+            "repo": "awesome-redis",
+            "stars": 745
+          }
+        }
+      ],
+      "title": "🔗 References"
     },
     {
       "description": "API (Application Programming Interface) an interface which describes a certain set of rules by which different programs (applications, bots, websites...) can interact with each other. With API calls you can execute certain functions of a program without knowing how it works.\nWhen developing server applications, different API formats can be used, depending on the tasks and requirements.",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "REST (Representational State Transfer)",
+          "description": "an architectural approach that describes a set of rules for how a programmer organizes the writing of server application code so that all systems can easily exchange data and the application can be easily scaled. When building a REST API, HTTP protocol methods are widely used.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Versioning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70672155,
+                "language": null,
+                "last_commit": "2018-11-29T09:59:18Z",
+                "owner": "NationalBankBelgium",
+                "repo": "REST-API-Design-Guide",
+                "stars": 827
+              }
+            }
+          ]
+        }
+      ],
+      "title": "API development"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -172,7 +658,173 @@
           }
         }
       ],
-      "title": "API development"
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome list of GraphQL – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38958738,
+            "language": null,
+            "last_commit": "2026-08-14T03:30:31Z",
+            "owner": "chentsulin",
+            "repo": "awesome-graphql",
+            "stars": 15104
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome WebSockets – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74018561,
+            "language": null,
+            "last_commit": "2026-08-17T08:38:52Z",
+            "owner": "facundofarias",
+            "repo": "awesome-websockets",
+            "stars": 1859
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome gRPC – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103694867,
+            "language": null,
+            "last_commit": "2025-10-28T00:53:09Z",
+            "owner": "grpc-ecosystem",
+            "repo": "awesome-grpc",
+            "stars": 8354
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Git",
+          "description": "a special system for managing the history of changes to the source code. Any changes that are made to Git can be saved, allowing you to rollback (revert) to a previously saved copy of the project. Git is currently the standard for development.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git style guide",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33088032,
+                "language": null,
+                "last_commit": "2022-09-26T20:12:02Z",
+                "owner": "agis",
+                "repo": "git-style-guide",
+                "stars": 5115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Basic commands",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675271151,
+                "language": null,
+                "last_commit": "2023-08-07T13:57:08Z",
+                "owner": "cheatsnake",
+                "repo": "quick-git",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Viewing commits & logs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675271151,
+                "language": null,
+                "last_commit": "2023-08-07T13:57:08Z",
+                "owner": "cheatsnake",
+                "repo": "quick-git",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Working with branches",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675271151,
+                "language": null,
+                "last_commit": "2023-08-07T13:57:08Z",
+                "owner": "cheatsnake",
+                "repo": "quick-git",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Remote repositories",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675271151,
+                "language": null,
+                "last_commit": "2023-08-07T13:57:08Z",
+                "owner": "cheatsnake",
+                "repo": "quick-git",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Commit deletions and rollbacks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675271151,
+                "language": null,
+                "last_commit": "2023-08-07T13:57:08Z",
+                "owner": "cheatsnake",
+                "repo": "quick-git",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Software"
     },
     {
       "description": null,
@@ -189,7 +841,7 @@
             "last_commit": "2026-07-23T16:06:45Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175427
+            "stars": 175439
           }
         },
         {
@@ -208,7 +860,119 @@
           }
         }
       ],
-      "title": "Software"
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Docker – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24297122,
+            "language": null,
+            "last_commit": "2026-08-19T15:33:40Z",
+            "owner": "veggiemonk",
+            "repo": "awesome-docker",
+            "stars": 36701
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome NGINX – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40654944,
+            "language": "C",
+            "last_commit": "2026-08-23T05:52:24Z",
+            "owner": "agile6v",
+            "repo": "awesome-nginx",
+            "stars": 1286
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome ChatGPT Prompts – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574523116,
+            "language": "HTML",
+            "last_commit": "2026-08-24T03:24:40Z",
+            "owner": "f",
+            "repo": "prompts.chat",
+            "stars": 167848
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome Testing – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77133957,
+            "language": null,
+            "last_commit": "2026-08-22T20:24:21Z",
+            "owner": "TheJambo",
+            "repo": "awesome-testing",
+            "stars": 2355
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Logs capture detailed information about events, errors, and activities within your applications, facilitating troubleshooting and debugging processes. They provide a historical record of system behavior, allowing you to investigate issues, understand root causes, and improve overall system reliability and stability.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Graylog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 671825,
+                "language": "Java",
+                "last_commit": "2026-08-24T13:31:04Z",
+                "owner": "Graylog2",
+                "repo": "graylog2-server",
+                "stars": 8113
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Deployment (CI/CD)"
     },
     {
       "description": null,
@@ -225,7 +989,7 @@
             "last_commit": "2024-03-12T09:29:54Z",
             "owner": "donnemartin",
             "repo": "awesome-aws",
-            "stars": 14126
+            "stars": 14127
           }
         },
         {
@@ -255,9 +1019,15 @@
             "last_commit": "2021-04-30T21:49:21Z",
             "owner": "jonleibowitz",
             "repo": "awesome-digitalocean",
-            "stars": 379
+            "stars": 380
           }
-        },
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "📄 Kubernetes Learning Roadmap – GitHub",
@@ -270,7 +1040,7 @@
             "last_commit": "2026-05-28T07:23:40Z",
             "owner": "techiescamp",
             "repo": "kubernetes-learning-path",
-            "stars": 7625
+            "stars": 7626
           }
         },
         {
@@ -302,7 +1072,34 @@
             "repo": "awesome-swarm",
             "stars": 746
           }
-        },
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome GitHub Actions – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153500249,
+            "language": null,
+            "last_commit": "2024-09-01T20:32:39Z",
+            "owner": "sdras",
+            "repo": "awesome-actions",
+            "stars": 28162
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "📄 Awesome Elasticsearch – GitHub",
@@ -334,7 +1131,107 @@
           }
         }
       ],
-      "title": "Deployment (CI/CD)"
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Benchmark",
+          "description": "(in software) is a tool for measuring the execution time of program code. As a rule, the measurement is done by multiple runs of the same code (or a certain part of it), where the average time is then calculated, and can also provide information about the number of operations performed and the amount of memory allocated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83001364,
+            "language": null,
+            "last_commit": "2026-08-20T19:12:26Z",
+            "owner": "denji",
+            "repo": "awesome-http-benchmark",
+            "stars": 3765
+          }
+        }
+      ],
+      "title": "Optimization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "📄 Awesome utilities for performance profiling – GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 461708704,
+            "language": null,
+            "last_commit": "2026-04-10T17:45:50Z",
+            "owner": "msaroufim",
+            "repo": "awesome-profiling",
+            "stars": 208
+          }
+        }
+      ],
+      "title": "🔗 References"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "A standard in the development world. An incredibly simple, yet powerful markup language for describing your projects. As a matter of fact, the resource you are reading right now is written with Markdown",
+          "description": ".",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Markdown cheatsheet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4311796,
+                "language": "JavaScript",
+                "last_commit": "2025-08-22T00:21:50Z",
+                "owner": "adam-p",
+                "repo": "markdown-here",
+                "stars": 60248
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome README",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29456624,
+                "language": null,
+                "last_commit": "2026-08-20T19:50:09Z",
+                "owner": "matiassingers",
+                "repo": "awesome-readme",
+                "stars": 21364
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Markdown",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64252931,
+                "language": null,
+                "last_commit": "2024-08-21T03:06:19Z",
+                "owner": "BubuAnabelas",
+                "repo": "awesome-markdown",
+                "stars": 952
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Documentation"
     },
     {
       "description": null,
@@ -351,7 +1248,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87470
+            "stars": 87488
           }
         },
         {
@@ -366,7 +1263,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83163
+            "stars": 83168
           }
         },
         {
@@ -381,7 +1278,7 @@
             "last_commit": "2026-07-08T00:36:51Z",
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 45738
+            "stars": 45749
           }
         },
         {
@@ -396,7 +1293,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35369
+            "stars": 35371
           }
         },
         {
@@ -411,7 +1308,7 @@
             "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34974
+            "stars": 34978
           }
         },
         {
@@ -426,7 +1323,7 @@
             "last_commit": "2026-07-13T18:25:52Z",
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 30308
+            "stars": 30309
           }
         },
         {
@@ -441,7 +1338,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14881
+            "stars": 14883
           }
         },
         {
@@ -456,7 +1353,7 @@
             "last_commit": "2026-07-21T15:47:21Z",
             "owner": "Ignitetechnologies",
             "repo": "Mindmap",
-            "stars": 9206
+            "stars": 9208
           }
         },
         {
@@ -471,7 +1368,7 @@
             "last_commit": "2026-04-17T12:56:50Z",
             "owner": "zhashkevych",
             "repo": "awesome-backend",
-            "stars": 3440
+            "stars": 3441
           }
         },
         {
@@ -524,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:18:34.171Z",
+    "last_updated": "2026-08-24T13:57:35.607Z",
     "original_repository": "cheatsnake/backend-cheats",
     "original_repository_id": 464174913,
     "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
