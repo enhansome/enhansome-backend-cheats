@@ -122,7 +122,7 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20238
+            "stars": 20239
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196548
+            "stars": 196549
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542679
+            "stars": 542721
           }
         },
         {
@@ -329,7 +329,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105602
+                "stars": 105601
               }
             },
             {
@@ -344,7 +344,7 @@
                 "last_commit": "2026-06-03T15:51:23Z",
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39530
+                "stars": 39531
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-04-15T15:10:48Z",
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17661
+                "stars": 17660
               }
             },
             {
@@ -412,7 +412,7 @@
             "last_commit": "2026-08-25T00:32:48Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182162
+            "stars": 182168
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39530
+            "stars": 39531
           }
         }
       ],
@@ -916,10 +916,10 @@
             "archived": false,
             "id": 574523116,
             "language": "HTML",
-            "last_commit": "2026-08-24T03:24:40Z",
+            "last_commit": "2026-08-25T03:21:48Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 167866
+            "stars": 167869
           }
         }
       ],
@@ -1091,7 +1091,7 @@
             "last_commit": "2024-09-01T20:32:39Z",
             "owner": "sdras",
             "repo": "awesome-actions",
-            "stars": 28163
+            "stars": 28164
           }
         }
       ],
@@ -1210,7 +1210,7 @@
                 "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21366
+                "stars": 21367
               }
             },
             {
@@ -1248,7 +1248,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87509
+            "stars": 87513
           }
         },
         {
@@ -1263,7 +1263,7 @@
             "last_commit": "2026-07-07T17:42:10Z",
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83172
+            "stars": 83173
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-07-08T00:36:51Z",
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 45759
+            "stars": 45762
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-03-02T12:50:21Z",
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35372
+            "stars": 35370
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14883
+            "stars": 14882
           }
         },
         {
@@ -1398,7 +1398,7 @@
             "last_commit": "2024-08-29T22:18:00Z",
             "owner": "Sairyss",
             "repo": "backend-best-practices",
-            "stars": 2366
+            "stars": 2365
           }
         },
         {
@@ -1413,7 +1413,7 @@
             "last_commit": "2025-01-22T16:52:11Z",
             "owner": "Sairyss",
             "repo": "system-design-patterns",
-            "stars": 1260
+            "stars": 1259
           }
         }
       ],
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:14:27.660Z",
+    "last_updated": "2026-08-25T05:47:40.071Z",
     "original_repository": "cheatsnake/backend-cheats",
     "original_repository_id": 464174913,
     "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
