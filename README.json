@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-04T08:32:46Z",
                 "owner": "koalaman",
                 "repo": "shellcheck",
-                "stars": 39937
+                "stars": 39938
               }
             },
             {
@@ -122,7 +122,7 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20252
+            "stars": 20253
           }
         },
         {
@@ -221,7 +221,7 @@
             "last_commit": "2026-07-26T02:43:08Z",
             "owner": "trekhleb",
             "repo": "javascript-algorithms",
-            "stars": 196566
+            "stars": 196567
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543317
+            "stars": 543336
           }
         },
         {
@@ -329,7 +329,7 @@
                 "last_commit": "2026-06-15T11:41:04Z",
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105602
+                "stars": 105603
               }
             },
             {
@@ -374,7 +374,7 @@
                 "last_commit": "2026-04-15T15:10:48Z",
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17665
+                "stars": 17667
               }
             },
             {
@@ -412,7 +412,7 @@
             "last_commit": "2026-08-27T09:04:15Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182404
+            "stars": 182405
           }
         },
         {
@@ -841,7 +841,7 @@
             "last_commit": "2026-08-25T17:02:50Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 175470
+            "stars": 175471
           }
         },
         {
@@ -919,7 +919,7 @@
             "last_commit": "2026-08-27T10:04:29Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 168048
+            "stars": 168052
           }
         }
       ],
@@ -963,7 +963,7 @@
                 "archived": false,
                 "id": 671825,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:13:39Z",
+                "last_commit": "2026-08-27T12:47:38Z",
                 "owner": "Graylog2",
                 "repo": "graylog2-server",
                 "stars": 8116
@@ -1248,7 +1248,7 @@
             "last_commit": "2025-04-04T17:30:30Z",
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 87663
+            "stars": 87667
           }
         },
         {
@@ -1323,7 +1323,7 @@
             "last_commit": "2026-07-13T18:25:52Z",
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 30317
+            "stars": 30316
           }
         },
         {
@@ -1338,7 +1338,7 @@
             "last_commit": "2024-06-11T05:47:51Z",
             "owner": "Sairyss",
             "repo": "domain-driven-hexagon",
-            "stars": 14890
+            "stars": 14891
           }
         },
         {
@@ -1421,7 +1421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:23.918Z",
+    "last_updated": "2026-08-27T12:50:48.950Z",
     "original_repository_info": {
       "archived": false,
       "id": 464174913,
@@ -1429,7 +1429,7 @@
       "last_commit": "2025-02-02T14:26:58Z",
       "owner": "cheatsnake",
       "repo": "backend-cheats",
-      "stars": 5060
+      "stars": 5059
     },
     "original_repository_sha": "493ead9f33501a3f1da2d33abfaa878d1bf98e43",
     "enhanced_repository": "enhansome/enhansome-backend-cheats",
