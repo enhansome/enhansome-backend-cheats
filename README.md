@@ -1,6 +1,6 @@
 # Awesome backend cheats with stars
 
-[<p align="center"><img src="./files/logo.png" alt="Logo"/></p>](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) ⭐ 5,059 | 🐛 5 | 📅 2025-02-02
+[<p align="center"><img src="./files/logo.png" alt="Logo"/></p>](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) ⭐ 5,060 | 🐛 5 | 📅 2025-02-02
 
 This repository is a visual cheatsheet on the main topics in Backend-development. All material is divided into chapters that include different topics. There are three main parts to each topic:
 
@@ -8,9 +8,9 @@ This repository is a visual cheatsheet on the main topics in Backend-development
 * **Summary** - A very brief summary with a list of key terms and concepts. The terms are hyperlinked to the appropriate section on Wikipedia or a similar reference resource.
 * **References to sources** - resources where you may find complete information on a particular issue (they are hidden under a spoiler, which opens when clicked). If possible, the most authoritative sources are indicated, or those that provide information in as simple and comprehensible language as possible.
 
-> 🌐 Available translations: [`English`](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) ⭐ 5,059 | 🐛 5 | 📅 2025-02-02 [`Русский`](https://github.com/cheatsnake/backend-cheats/blob/master/README_RUS.md) ⭐ 5,059 | 🐛 5 | 📅 2025-02-02
+> 🌐 Available translations: [`English`](https://github.com/cheatsnake/backend-cheats/blob/master/README.md) ⭐ 5,060 | 🐛 5 | 📅 2025-02-02 [`Русский`](https://github.com/cheatsnake/backend-cheats/blob/master/README_RUS.md) ⭐ 5,060 | 🐛 5 | 📅 2025-02-02
 
-> 🤝 If you want to help the project, feel free to send your [issues](https://github.com/cheatsnake/backend-cheats/issues) ⭐ 5,059 | 🐛 5 | 📅 2025-02-02 or [pull requests](https://github.com/cheatsnake/backend-cheats/pulls) ⭐ 5,059 | 🐛 5 | 📅 2025-02-02.
+> 🤝 If you want to help the project, feel free to send your [issues](https://github.com/cheatsnake/backend-cheats/issues) ⭐ 5,060 | 🐛 5 | 📅 2025-02-02 or [pull requests](https://github.com/cheatsnake/backend-cheats/pulls) ⭐ 5,060 | 🐛 5 | 📅 2025-02-02.
 
 > 🌙 For better experience enable [dark theme](https://github.com/settings/appearance).
 
@@ -790,7 +790,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Awesome CLI-apps** – GitHub](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,274 | 🐛 0 | 🌐 Shell | 📅 2026-08-22
+1. 📄 [**Awesome CLI-apps** – GitHub](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,276 | 🐛 0 | 🌐 Shell | 📅 2026-08-22
 2. 📄 [**Awesome Terminals** – GitHub](https://github.com/cdleon/awesome-terminals) ⭐ 2,945 | 🐛 22 | 📅 2026-07-20
 3. 📄 [**31 Linux Commands Every Ubuntu User Should Know**](https://itsfoss.com/essential-ubuntu-commands/)
 4. 📄 [**The Linux Command Handbook** – freeCodeCamp](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
@@ -989,7 +989,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Awesome SSH** – GitHub](https://github.com/moul/awesome-ssh) ⭐ 2,835 | 🐛 46 | 📅 2023-08-10
+1. 📄 [**Awesome SSH** – GitHub](https://github.com/moul/awesome-ssh) ⭐ 2,836 | 🐛 46 | 📅 2023-08-10
 2. 📄 [**What the hell is SSH?**](https://codingpastor.hashnode.dev/what-the-hell-is-ssh)
 3. 📺 [**Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial** – YouTube](https://youtu.be/v45p_kJV9i4)
 4. 📺 [**SSH Crash Course | With Some DevOps** – YouTube](https://youtu.be/hQWRp-FdTpc)
@@ -1303,7 +1303,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
     <summary>🔗 <b>References</b></summary>
 
 1. 📄 [**JavaScript Data Structures and Algorithms** – GitHub](https://github.com/trekhleb/javascript-algorithms) ⭐ 196,577 | 🐛 404 | 🌐 JavaScript | 📅 2026-07-26
-2. 📄 [**Go Data Structures** – GitHub](https://github.com/emirpasic/gods) ⭐ 17,459 | 🐛 73 | 🌐 Go | 📅 2025-03-12
+2. 📄 [**Go Data Structures** – GitHub](https://github.com/emirpasic/gods) ⭐ 17,460 | 🐛 73 | 🌐 Go | 📅 2025-03-12
 3. 📺 [**10 Key Data Structures We Use Every Day** – YouTube](https://youtu.be/ouipSd_5ivQ)
 4. 📺 [**CS50 2022 - Lecture about Data Structures** – YouTube](https://youtu.be/X8h4dq9Hzq8)
 5. 📺 [**Data Structures Easy to Advanced Course** – YouTube](https://youtu.be/RBSGKlAvoiM)
@@ -1340,7 +1340,7 @@ There are a huge number of [Linux distributions](https://en.wikipedia.org/wiki/L
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Code for the book Grokking Algorithms** – GitHub](https://github.com/egonSchiele/grokking_algorithms) ⭐ 13,645 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-12
+1. 📄 [**Code for the book Grokking Algorithms** – GitHub](https://github.com/egonSchiele/grokking_algorithms) ⭐ 13,646 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-12
 2. 📺 [**Algorithms and Data Structures Tutorial** – YouTube](https://youtu.be/8hly31xKli0)
 3. 📄 [**Largest open-source algorithm library**](https://the-algorithms.com/)
 4. 📺 [**Sorting Algorithms Explained Visually** – YouTube](https://youtu.be/RfXt_qHDEPw)
@@ -1483,9 +1483,9 @@ At this stage you have to choose one programming language to study. There is ple
 * [Kotlin](https://en.wikipedia.org/wiki/Kotlin_\(programming_language\))
   > A kind of modern version of [Java](https://en.wikipedia.org/wiki/Java_\(programming_language\)). Simpler and more concise syntax, better type-safety, built-in tools for multi-threading. One of the best choices for Android development.
 
-Find a good book or online tutorial in English at [this repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,482 | 🐛 92 | 🌐 Python | 📅 2026-08-18. There is a large collection for different languages and frameworks.
+Find a good book or online tutorial in English at [this repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) ⭐ 395,497 | 🐛 92 | 🌐 Python | 📅 2026-08-18. There is a large collection for different languages and frameworks.
 
-Look for a special [awesome repository](https://github.com/sindresorhus/awesome#programming-languages) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs, and other various resources).
+Look for a special [awesome repository](https://github.com/sindresorhus/awesome#programming-languages) ⭐ 500,948 | 🐛 105 | 📅 2026-08-21 - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs, and other various resources).
 
 <div align="right"><a href="#top">Contents ⬆️</a></div>
 
@@ -1556,7 +1556,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
   * Package Manager
     > Sooner or later, there will be a desire to use third-party libraries.
 
-  After mastering the minimal base for writing the simplest programs, there is not much point in continuing to learn without having specific goals (without practice, everything will be forgotten). You need to think of/find something that you would like to create yourself (a game, a chatbot, a website, a mobile/desktop application, whatever). For inspiration, check out these repositories: [Build your own x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 543,735 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 and [Project based learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 281,200 | 🐛 271 | 🌐 Python | 📅 2026-08-24.
+  After mastering the minimal base for writing the simplest programs, there is not much point in continuing to learn without having specific goals (without practice, everything will be forgotten). You need to think of/find something that you would like to create yourself (a game, a chatbot, a website, a mobile/desktop application, whatever). For inspiration, check out these repositories: [Build your own x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 543,786 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 and [Project based learning](https://github.com/practical-tutorials/project-based-learning) ⭐ 281,220 | 🐛 271 | 🌐 Python | 📅 2026-08-24.
 
   At this point, the most productive part of learning begins: You just look for all kinds of information to implement your project. Your best friends are Google, YouTube, and Stack Overflow.
 
@@ -1653,8 +1653,8 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**List of libraries for working with network in Go** – GitHub](https://github.com/avelino/awesome-go#networking) ⭐ 182,558 | 🐛 219 | 🌐 Go | 📅 2026-08-28
-2. 📄 [**A curated list of awesome things related to Django** – GitHub](https://github.com/wsvincent/awesome-django) ⭐ 11,223 | 🐛 10 | 🌐 Python | 📅 2026-08-18
+1. 📄 [**List of libraries for working with network in Go** – GitHub](https://github.com/avelino/awesome-go#networking) ⭐ 182,575 | 🐛 219 | 🌐 Go | 📅 2026-08-29
+2. 📄 [**A curated list of awesome things related to Django** – GitHub](https://github.com/wsvincent/awesome-django) ⭐ 11,224 | 🐛 10 | 🌐 Python | 📅 2026-08-18
 3. 📄 [**A curated list of awesome Express.js resources** – GitHub](https://github.com/rajikaimal/awesome-express) ⭐ 865 | 🐛 7 | 📅 2026-08-22
 4. 📄 [**Node.js HTTP Server Examples – GitHub**](https://github.com/HowProgrammingWorks/NodeServer) ⭐ 95 | 🐛 6 | 🌐 JavaScript | 📅 2026-02-11
 5. 📄 [**Learn Django – Python-based web framework**](https://www.djangoproject.com/start/)
@@ -1683,7 +1683,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
   * [Event-driven architecture (EDA)](https://en.wikipedia.org/wiki/Event-driven_architecture)
     > A popular approach to writing asynchronous programs. The logic of the program is to wait for certain events and process them as they arrive. This can be useful in web applications that need to handle a large number of concurrent connections, such as chat applications or real-time games.
   * Asynchronous in particular languages
-    > * In Python, asynchronous programming can be done using the [asyncio module](https://docs.python.org/3/library/asyncio.html), which provides an event loop and coroutine-based API for concurrency. There are also other third-party libraries like [Twisted](https://github.com/twisted/twisted) ⭐ 5,978 | 🐛 2,834 | 🌐 Python | 📅 2026-08-28 and [Tornado](https://github.com/tornadoweb/tornado) ⭐ 22,179 | 🐛 252 | 🌐 Python | 📅 2026-08-24 that provide asynchronous capabilities.
+    > * In Python, asynchronous programming can be done using the [asyncio module](https://docs.python.org/3/library/asyncio.html), which provides an event loop and coroutine-based API for concurrency. There are also other third-party libraries like [Twisted](https://github.com/twisted/twisted) ⭐ 5,978 | 🐛 2,835 | 🌐 Python | 📅 2026-08-29 and [Tornado](https://github.com/tornadoweb/tornado) ⭐ 22,179 | 🐛 254 | 🌐 Python | 📅 2026-08-24 that provide asynchronous capabilities.
     > * In JavaScript, asynchronous programming is commonly achieved through the use of [promises](https://javascript.info/promise-basics), [callbacks](https://javascript.info/callbacks), [async/await syntax](https://javascript.info/async-await) and the [event loop](https://javascript.info/event-loop).
     > * Go has built-in support for concurrency through [goroutines and channels](https://go.dev/tour/concurrency/1), which allow developers to write asynchronous code that can communicate and synchronize across multiple threads.
     > * Kotlin provides [coroutines](https://kotlinlang.org/docs/coroutines-overview.html) are similar to JavaScript's async/await and Python's asyncio, and can be used with a variety of platforms and frameworks.
@@ -1781,10 +1781,10 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 
   For many languages there are special style guides and coding conventions. They usually compare the right and wrong way of writing code and explain why this is the case.
 
-  * [JavaScript style guide by Airbnb](https://github.com/airbnb/javascript) ⭐ 148,144 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
+  * [JavaScript style guide by Airbnb](https://github.com/airbnb/javascript) ⭐ 148,143 | 🐛 163 | 🌐 JavaScript | 📅 2026-04-16
   * [Node.js best practices list](https://github.com/goldbergyoni/nodebestpractices) ⭐ 105,605 | 🐛 137 | 🌐 Dockerfile | 📅 2026-06-15
-  * [Python style guide by Google](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) ⭐ 39,549 | 🐛 170 | 🌐 HTML | 📅 2026-06-03
-  * [Python best practices guidebook](https://github.com/realpython/python-guide) ⭐ 29,780 | 🐛 136 | 🌐 Batchfile | 📅 2026-07-27
+  * [Python style guide by Google](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) ⭐ 39,550 | 🐛 170 | 🌐 HTML | 📅 2026-06-03
+  * [Python best practices guidebook](https://github.com/realpython/python-guide) ⭐ 29,781 | 🐛 136 | 🌐 Batchfile | 📅 2026-07-27
   * [Go style guide by Uber](https://github.com/uber-go/guide) ⭐ 17,666 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15
   * [and other…](https://github.com/kciter/awesome-style-guide) ⭐ 1,110 | 🐛 0 | 🌐 Ruby | 📅 2023-01-19
   * [Effective Go - official coding conventions](https://go.dev/doc/effective_go)
@@ -1793,7 +1793,7 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Google style guides** – GitHub](https://github.com/google/styleguide) ⭐ 39,549 | 🐛 170 | 🌐 HTML | 📅 2026-06-03
+1. 📄 [**Google style guides** – GitHub](https://github.com/google/styleguide) ⭐ 39,550 | 🐛 170 | 🌐 HTML | 📅 2026-06-03
 2. 📄 [**KISS, SOLID, YAGNI And Other Fun Acronyms**](https://blog.bitsrc.io/kiss-solid-yagni-and-other-fun-acronyms-b5d207530335)
 3. 📺 [**Naming Things in Code** – YouTube](https://youtu.be/-J3wNP6u5YU)
 4. 📺 [**Why You Shouldn't Nest Your Code** – YouTube](https://youtu.be/CFRhGnuXG-4)
@@ -1862,9 +1862,9 @@ Look for a special [awesome repository](https://github.com/sindresorhus/awesome#
     * Command `START TRANSACTION`
     * Commands `COMMIT` and `ROLLBACK`
   * Working with a programming language
-    > To do this, you need to install a database driver (adapter) for your language. (For example [psycopg2](https://github.com/psycopg/psycopg2) ⭐ 3,653 | 🐛 28 | 🌐 C | 📅 2026-05-02 for Python, [node-postgres](https://github.com/brianc/node-postgres) ⭐ 13,198 | 🐛 518 | 🌐 JavaScript | 📅 2026-08-18 for Node.js, [pgx](https://github.com/jackc/pgx) ⭐ 14,192 | 🐛 257 | 🌐 Go | 📅 2026-08-24 for Go)
+    > To do this, you need to install a database driver (adapter) for your language. (For example [psycopg2](https://github.com/psycopg/psycopg2) ⭐ 3,653 | 🐛 28 | 🌐 C | 📅 2026-05-02 for Python, [node-postgres](https://github.com/brianc/node-postgres) ⭐ 13,198 | 🐛 518 | 🌐 JavaScript | 📅 2026-08-18 for Node.js, [pgx](https://github.com/jackc/pgx) ⭐ 14,193 | 🐛 257 | 🌐 Go | 📅 2026-08-24 for Go)
   * [ORM (Object-Relational Mapping)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping) libraries
-    > Writing SQL queries in code is difficult. It's easy to make mistakes and typos in them, because they are just strings that are not validated in any way. To solve this problem, there are so-called ORM libraries, which allow you to execute SQL queries as if you were simply calling methods on an object. Unfortunately, even with them all is not so smooth, because "under the hood" queries that are generated by these libraries are not the most optimal in terms of performance (so be prepared to work with ORM, as well as with pure SQL). <br> Popular ORMs: [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,119 | 🐛 208 | 🌐 Python | 📅 2026-08-28 for Python, [Prisma](https://github.com/prisma/prisma) ⭐ 47,566 | 🐛 2,580 | 🌐 TypeScript | 📅 2026-08-28 for Node.js, [GORM](https://github.com/go-gorm/gorm) ⭐ 39,934 | 🐛 522 | 🌐 Go | 📅 2026-06-25 for Go.
+    > Writing SQL queries in code is difficult. It's easy to make mistakes and typos in them, because they are just strings that are not validated in any way. To solve this problem, there are so-called ORM libraries, which allow you to execute SQL queries as if you were simply calling methods on an object. Unfortunately, even with them all is not so smooth, because "under the hood" queries that are generated by these libraries are not the most optimal in terms of performance (so be prepared to work with ORM, as well as with pure SQL). <br> Popular ORMs: [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,120 | 🐛 208 | 🌐 Python | 📅 2026-08-28 for Python, [Prisma](https://github.com/prisma/prisma) ⭐ 47,567 | 🐛 2,580 | 🌐 TypeScript | 📅 2026-08-28 for Node.js, [GORM](https://github.com/go-gorm/gorm) ⭐ 39,934 | 🐛 522 | 🌐 Go | 📅 2026-06-25 for Go.
   * [Optimization and performance](https://postgrespro.ru/docs/postgresql/14/performance-tips)
 
 <details>
@@ -2194,7 +2194,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Collection of .gitignore templates** – GitHub](https://github.com/github/gitignore) ⭐ 175,487 | 🐛 83 | 📅 2026-08-28
+1. 📄 [**Collection of .gitignore templates** – GitHub](https://github.com/github/gitignore) ⭐ 175,491 | 🐛 83 | 📅 2026-08-28
 2. 📄 [**Learn Git concepts, not commands** – GitHub](https://github.com/UnseenWizzard/git_training) ⭐ 755 | 🐛 3 | 📅 2024-07-19
 3. 📺 [**Git It? How to use Git and GitHub** – YouTube](https://youtu.be/HkdAHXoRtos)
 4. 📺 [**Git and GitHub for Beginners - Crash Course** – YouTube](https://youtu.be/RGOj5yH7evk)
@@ -2257,7 +2257,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) ⭐ 36,736 | 🐛 25 | 📅 2026-08-27
+1. 📄 [**Awesome Docker** – GitHub](https://github.com/veggiemonk/awesome-docker) ⭐ 36,737 | 🐛 25 | 📅 2026-08-27
 2. 📺 [**Learn Docker in 7 Easy Steps - Full Beginner's Tutorial** – YouTube](https://youtu.be/gAkwW2tuIqE)
 3. 📺 [**Never install locally** – YouTube](https://youtu.be/J0NuOlA2xDc)
 4. 📺 [**Docker Crash Course Tutorial (playlist)** – YouTube](https://youtube.com/playlist?list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
@@ -2309,7 +2309,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Awesome NGINX** – GitHub](https://github.com/agile6v/awesome-nginx) ⭐ 1,288 | 🐛 6 | 🌐 C | 📅 2026-08-23
+1. 📄 [**Awesome NGINX** – GitHub](https://github.com/agile6v/awesome-nginx) ⭐ 1,288 | 🐛 5 | 🌐 C | 📅 2026-08-29
 2. 📺 [**What are web servers and how do they work** – YouTube](https://youtu.be/JhpUch6lWMw)
 3. 📺 [**Web Server Concepts and Examples** – YouTube](https://youtu.be/9J1nJOivdyw)
 4. 📺 [**The NGINX Crash Course** – YouTube](https://youtu.be/7VAI73roXaY)
@@ -2381,7 +2381,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Awesome ChatGPT Prompts** – GitHub](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,128 | 🐛 69 | 🌐 HTML | 📅 2026-08-29
+1. 📄 [**Awesome ChatGPT Prompts** – GitHub](https://github.com/f/awesome-chatgpt-prompts) ⭐ 168,140 | 🐛 69 | 🌐 HTML | 📅 2026-08-29
 2. 📺 [**ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity** – YouTube](https://youtu.be/sTeoEFzVNSc)
 3. 📺 [**GitHub Copilot in 7 Minutes** – YouTube](https://youtu.be/hPVatUSvZq0)
 
@@ -2553,7 +2553,7 @@ Testing is the process of assessing that all parts of the program behave as expe
     >
     > * For , it uses [pytest](https://docs.pytest.org), although the standard [unittest](https://docs.python.org/3/library/unittest.html) is enough to start with.
     > * For JavaScript/TypeScript, the best choices are [Jest](https://jestjs.io/).
-    > * For Go – [testify](https://github.com/stretchr/testify) ⭐ 26,185 | 🐛 365 | 🌐 Go | 📅 2026-08-24.
+    > * For Go – [testify](https://github.com/stretchr/testify) ⭐ 26,187 | 🐛 365 | 🌐 Go | 📅 2026-08-24.
     > * [And so on...](https://github.com/atinfo/awesome-test-automation#awesome-test-automation) ⭐ 7,147 | 🐛 135 | 📅 2025-11-28
 
 <details>
@@ -2604,7 +2604,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 <details>
     <summary>🔗 <b>References</b></summary>
 
-1. 📄 [**Awesome Testing** – GitHub](https://github.com/TheJambo/awesome-testing) ⭐ 2,359 | 🐛 5 | 📅 2026-08-28
+1. 📄 [**Awesome Testing** – GitHub](https://github.com/TheJambo/awesome-testing) ⭐ 2,360 | 🐛 5 | 📅 2026-08-28
 2. 📄 [**What is End-to-End Testing and When Should You Use It?** – freeCodeCamp](https://www.freecodecamp.org/news/end-to-end-testing-tutorial/)
 3. 📺 [**End to End Testing - Explained** – YouTube](https://youtu.be/68xvfrxlEYo)
 4. 📺 [**Testing Node.js Server with Jest and Supertest** – YouTube](https://youtu.be/FKnzS_icp20)
@@ -2762,7 +2762,7 @@ Testing is the process of assessing that all parts of the program behave as expe
   * [Graylog](https://github.com/Graylog2/graylog2-server) ⭐ 8,120 | 🐛 2,057 | 🌐 Java | 📅 2026-08-28
     > Comprehensive log management platform that also centralizes log data from different sources. Graylog offers features like log ingestion, indexing, searching, and analysis.
   * Libraries for your lang
-    > The easiest way to log an application is to use the tools of the standard language library or third-party packages. For example, in Python you can use [logging module](https://docs.python.org/3/library/logging.html) or [Loguru](https://github.com/Delgan/loguru) ⭐ 24,089 | 🐛 258 | 🌐 Python | 📅 2026-08-23. In Node.js – [Winston](https://github.com/winstonjs/winston) ⭐ 24,511 | 🐛 530 | 🌐 JavaScript | 📅 2026-07-20, [Pino](https://github.com/pinojs/pino) ⭐ 18,162 | 🐛 170 | 🌐 JavaScript | 📅 2026-08-25. And in Go – [log package](https://pkg.go.dev/log), [Logrus](https://github.com/sirupsen/logrus) ⭐ 25,748 | 🐛 45 | 🌐 Go | 📅 2026-08-25.
+    > The easiest way to log an application is to use the tools of the standard language library or third-party packages. For example, in Python you can use [logging module](https://docs.python.org/3/library/logging.html) or [Loguru](https://github.com/Delgan/loguru) ⭐ 24,089 | 🐛 258 | 🌐 Python | 📅 2026-08-23. In Node.js – [Winston](https://github.com/winstonjs/winston) ⭐ 24,511 | 🐛 530 | 🌐 JavaScript | 📅 2026-07-20, [Pino](https://github.com/pinojs/pino) ⭐ 18,165 | 🐛 170 | 🌐 JavaScript | 📅 2026-08-25. And in Go – [log package](https://pkg.go.dev/log), [Logrus](https://github.com/sirupsen/logrus) ⭐ 25,748 | 🐛 45 | 🌐 Go | 📅 2026-08-25.
   * [Loki](https://go2.grafana.com/loki-grafana-cloud.html)
     > Designed to collect log data from various sources and provides fast searching and filtering capabilities.
   * ELK Stack ([Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch), [Logstash](https://www.elastic.co/logstash/), [Kibana](https://www.elastic.co/kibana/))
@@ -2912,9 +2912,9 @@ Testing is the process of assessing that all parts of the program behave as expe
 
   A standard in the development world. An incredibly simple, yet powerful markup language for describing your projects. As a matter of fact, the resource you are reading right now is written with [Markdown](https://en.wikipedia.org/wiki/Markdown).
 
-  * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,249 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22
+  * [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ⭐ 60,248 | 🐛 318 | 🌐 JavaScript | 📅 2025-08-22
     > A cheatsheet on all the syntactic possibilities of the language.
-  * [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,388 | 🐛 1 | 📅 2026-08-20
+  * [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,390 | 🐛 1 | 📅 2026-08-20
     > A collection of beautiful README.md files (this is the main file of any repository on GitHub that uses Markdown).
   * [Awesome Markdown](https://github.com/BubuAnabelas/awesome-markdown) ⭐ 955 | 🐛 70 | 📅 2024-08-21
     > A collection of various resources for working with Markdown.
@@ -2941,7 +2941,7 @@ Testing is the process of assessing that all parts of the program behave as expe
     > For each language, it's different. Many have their own well-established approaches:
     >
     > * [Docstring](https://peps.python.org/pep-0257/) for Python.
-    > * [JSDoc](https://github.com/jsdoc/jsdoc) ⭐ 15,456 | 🐛 459 | 🌐 JavaScript | 📅 2026-08-28 for JavaScript.
+    > * [JSDoc](https://github.com/jsdoc/jsdoc) ⭐ 15,456 | 🐛 459 | 🌐 JavaScript | 📅 2026-08-29 for JavaScript.
     > * [Godoc](https://go.dev/doc/comment) for Go.
     > * [KDoc and Dokka](https://kotlinlang.org/docs/kotlin-doc.html) for Kotlin.
     > * [Javadoc](https://en.wikipedia.org/wiki/Javadoc) for Java.
@@ -3162,11 +3162,11 @@ Testing is the process of assessing that all parts of the program behave as expe
 
 ## Additional and similar resources
 
-* [System Design 101: Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101) ⭐ 87,695 | 🐛 67 | 📅 2025-04-04
-* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,197 | 🐛 2 | 📅 2026-08-26
-* [System Design Course](https://github.com/karanpratapsingh/system-design) ⭐ 45,836 | 🐛 4 | 📅 2026-07-08
-* [Awesome CTO – resources for Chief Technology Officers and VP R\&D](https://github.com/kuchin/awesome-cto) ⭐ 35,383 | 🐛 4 | 📅 2026-03-02
-* [Awesome Sysadmin: A curated list of open source sysadmin resources](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,013 | 🐛 0 | 📅 2026-08-27
+* [System Design 101: Explain complex systems using visuals and simple terms](https://github.com/ByteByteGoHq/system-design-101) ⭐ 87,700 | 🐛 67 | 📅 2025-04-04
+* [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses) ⭐ 83,199 | 🐛 2 | 📅 2026-08-26
+* [System Design Course](https://github.com/karanpratapsingh/system-design) ⭐ 45,837 | 🐛 4 | 📅 2026-07-08
+* [Awesome CTO – resources for Chief Technology Officers and VP R\&D](https://github.com/kuchin/awesome-cto) ⭐ 35,384 | 🐛 4 | 📅 2026-03-02
+* [Awesome Sysadmin: A curated list of open source sysadmin resources](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,015 | 🐛 0 | 📅 2026-08-27
 * [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) ⭐ 30,315 | 🐛 35 | 📅 2026-07-13
 * [Domain-Driven Design, software architecture, design patterns, best practices](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 14,894 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11
 * [Mindmaps for cyber security](https://github.com/Ignitetechnologies/Mindmap) ⭐ 9,232 | 🐛 15 | 📅 2026-07-21
