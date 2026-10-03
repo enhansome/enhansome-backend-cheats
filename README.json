@@ -4,74 +4,154 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "📄 Putting the \"You\" in CPU: explainer how your computer runs programs, from start to finish",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Putting the \"You\" in CPU: explainer how your computer runs programs, from start to finish",
+              "description": "hackclub/putting-the-you-in-cpu",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A technical explainer by @kognise of how your computer runs programs, from start to finish.",
+                "homepage": "https://cpu.land",
+                "id": 648351143,
+                "language": "MDX",
+                "license": "MIT",
+                "last_commit": "2026-09-16T01:58:26Z",
+                "open_issues": 40,
+                "owner": "hackclub",
+                "repo": "putting-the-you-in-cpu",
+                "stars": 5562,
+                "topics": [
+                  "cpu",
+                  "elf",
+                  "linux",
+                  "linux-kernel"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A technical explainer by @kognise of how your computer runs programs, from start to finish.",
-            "homepage": "https://cpu.land",
-            "id": 648351143,
-            "language": "MDX",
-            "license": "MIT",
-            "last_commit": "2026-09-16T01:58:26Z",
-            "open_issues": 40,
-            "owner": "hackclub",
-            "repo": "putting-the-you-in-cpu",
-            "stars": 5562,
-            "topics": [
-              "cpu",
-              "elf",
-              "linux",
-              "linux-kernel"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
+          "node_type": "group",
+          "title": "🔗 References"
+        },
         {
-          "node_type": "item",
-          "title": "📄 Awesome Operating System Stuff – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Operating System Stuff – GitHub",
+              "description": "jubalh/awesome-os",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A list of operating systems and stuff",
+                "homepage": null,
+                "id": 82377935,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-28T06:13:54Z",
+                "open_issues": 1,
+                "owner": "jubalh",
+                "repo": "awesome-os",
+                "stars": 2297,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "kernel",
+                  "linux",
+                  "linux-kernel",
+                  "operating-system",
+                  "os",
+                  "os-dev",
+                  "osdev"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A list of operating systems and stuff",
-            "homepage": null,
-            "id": 82377935,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-28T06:13:54Z",
-            "open_issues": 1,
-            "owner": "jubalh",
-            "repo": "awesome-os",
-            "stars": 2296,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "kernel",
-              "linux",
-              "linux-kernel",
-              "operating-system",
-              "os",
-              "os-dev",
-              "osdev"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
-      "title": "🔗 References"
+      "title": "PC device"
     },
     {
       "description": "Operating systems based on Linux kernel are the standard in the world of server development, since most servers run on such operating systems. Using Linux on servers is profitable because it is free and open source, secure and works fast on cheap hardware.\nThere are a huge number of Linux distributions (preinstalled software bundles) to suit all tastes. One of the most popular is Ubuntu. This is where you can start your dive into server development.\nInstall Ubuntu on a separate PC or laptop. If this is not possible, you can use a special program Virtual Box where you can run other OS on top of the main OS. You can also run Docker Ubuntu image container (Docker is a separate topic that is exists in this repository).",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome CLI-apps – GitHub",
+              "description": "agarrharr/awesome-cli-apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
+                "homepage": null,
+                "id": 38832942,
+                "language": "Shell",
+                "license": null,
+                "last_commit": "2026-09-30T08:16:23Z",
+                "open_issues": 1,
+                "owner": "agarrharr",
+                "repo": "awesome-cli-apps",
+                "stars": 20495,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cli",
+                  "cli-app",
+                  "list"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Terminals – GitHub",
+              "description": "cdleon/awesome-terminals",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Terminal Emulators",
+                "homepage": null,
+                "id": 151992625,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-22T20:35:24Z",
+                "open_issues": 33,
+                "owner": "cdleon",
+                "repo": "awesome-terminals",
+                "stars": 3018,
+                "topics": [
+                  "bash",
+                  "c",
+                  "command-line",
+                  "cpp",
+                  "golang",
+                  "haskell",
+                  "node",
+                  "powershell",
+                  "python",
+                  "ruby",
+                  "rust",
+                  "shell",
+                  "swift",
+                  "terminal",
+                  "terminal-emulators",
+                  "tty"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
         {
           "node_type": "group",
           "title": "You can use scripts to automate the sequential input of any number of commands. In Bash",
@@ -93,7 +173,7 @@
                 "open_issues": 1117,
                 "owner": "koalaman",
                 "repo": "shellcheck",
-                "stars": 40113,
+                "stars": 40119,
                 "topics": [
                   "bash",
                   "developer-tools",
@@ -108,7 +188,7 @@
             {
               "node_type": "item",
               "title": "Basics of Bash Scripts",
-              "description": null,
+              "description": "cheatsnake/bash-scripts-by-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -129,6 +209,129 @@
           ]
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 HackerRank challenges for Bash with solutions",
+              "description": "Thomas-George-T/HackerRank-The-Linux-Shell-Challenges-Solutions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Complete Solutions and related tutorials  for the Linux Shell - Bash, text processing, Arrays in Bash, Grep Sed Awk Challenges on HackerRank",
+                "homepage": null,
+                "id": 117837470,
+                "language": "Shell",
+                "license": "MIT",
+                "last_commit": "2024-04-16T21:18:35Z",
+                "open_issues": 1,
+                "owner": "Thomas-George-T",
+                "repo": "HackerRank-The-Linux-Shell-Challenges-Solutions",
+                "stars": 112,
+                "topics": [
+                  "awk",
+                  "bash",
+                  "challenge",
+                  "cut",
+                  "grep",
+                  "hackerrank",
+                  "hackerrank-solutions",
+                  "head",
+                  "linux",
+                  "linux-shell",
+                  "paste",
+                  "sed",
+                  "shell",
+                  "sort",
+                  "tail",
+                  "text-processing",
+                  "tr",
+                  "tutorial",
+                  "uniq",
+                  "unix"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome SSH – GitHub",
+              "description": "moul/awesome-ssh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":computer: A curated list of SSH resources.",
+                "homepage": "https://manfred.life/awesome-ssh",
+                "id": 49391609,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2023-08-10T10:15:24Z",
+                "open_issues": 51,
+                "owner": "moul",
+                "repo": "awesome-ssh",
+                "stars": 2847,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "devops",
+                  "list",
+                  "mosh",
+                  "openssh",
+                  "ssh",
+                  "ssh-agent",
+                  "ssh-key",
+                  "ssh-keys",
+                  "ssh-keyscan"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome console services – GitHub",
+              "description": "chubin/awesome-console-services",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
+                "homepage": null,
+                "id": 85309968,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-02-01T08:49:45Z",
+                "open_issues": 28,
+                "owner": "chubin",
+                "repo": "awesome-console-services",
+                "stars": 6536,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "curl",
+                  "resources",
+                  "terminal"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
           "node_type": "group",
           "title": "Log files",
           "description": "are special text files that contain all information about the operation of a computer, program, or user. They are especially useful when bugs and errors occur in the operation of a program or server. It is recommended to periodically review log files, even if nothing suspicious happens.",
@@ -136,7 +339,7 @@
             {
               "node_type": "item",
               "title": "Log rotation with logrotate",
-              "description": null,
+              "description": "logrotate/logrotate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -149,7 +352,7 @@
                 "open_issues": 64,
                 "owner": "logrotate",
                 "repo": "logrotate",
-                "stars": 1550,
+                "stars": 1551,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:54.254Z"
@@ -163,293 +366,110 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "📄 Awesome CLI-apps – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 JavaScript Data Structures and Algorithms – GitHub",
+              "description": "trekhleb/javascript-algorithms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+                "homepage": null,
+                "id": 126577260,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-07-26T02:43:08Z",
+                "open_issues": 408,
+                "owner": "trekhleb",
+                "repo": "javascript-algorithms",
+                "stars": 196867,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-preparation",
+                  "javascript",
+                  "javascript-algorithms"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Go Data Structures – GitHub",
+              "description": "emirpasic/gods",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",
+                "homepage": null,
+                "id": 31660590,
+                "language": "Go",
+                "license": "NOASSERTION",
+                "last_commit": "2025-03-12T00:01:29Z",
+                "open_issues": 76,
+                "owner": "emirpasic",
+                "repo": "gods",
+                "stars": 17462,
+                "topics": [
+                  "avl-tree",
+                  "b-tree",
+                  "binary-heap",
+                  "data-structure",
+                  "enumerable",
+                  "go",
+                  "golang",
+                  "iterator",
+                  "list",
+                  "map",
+                  "queue",
+                  "red-black-tree",
+                  "set",
+                  "sort",
+                  "stack",
+                  "tree"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
-            "homepage": null,
-            "id": 38832942,
-            "language": "Shell",
-            "license": null,
-            "last_commit": "2026-09-30T08:16:23Z",
-            "open_issues": 1,
-            "owner": "agarrharr",
-            "repo": "awesome-cli-apps",
-            "stars": 20494,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "cli",
-              "cli-app",
-              "list"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
+          "node_type": "group",
+          "title": "🔗 References"
         },
         {
-          "node_type": "item",
-          "title": "📄 Awesome Terminals – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Code for the book Grokking Algorithms – GitHub",
+              "description": "egonSchiele/grokking_algorithms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)",
+                "homepage": null,
+                "id": 52999018,
+                "language": "JavaScript",
+                "license": "NOASSERTION",
+                "last_commit": "2026-04-12T21:10:55Z",
+                "open_issues": 6,
+                "owner": "egonSchiele",
+                "repo": "grokking_algorithms",
+                "stars": 13701,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Terminal Emulators",
-            "homepage": null,
-            "id": 151992625,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-22T20:35:24Z",
-            "open_issues": 32,
-            "owner": "cdleon",
-            "repo": "awesome-terminals",
-            "stars": 3018,
-            "topics": [
-              "bash",
-              "c",
-              "command-line",
-              "cpp",
-              "golang",
-              "haskell",
-              "node",
-              "powershell",
-              "python",
-              "ruby",
-              "rust",
-              "shell",
-              "swift",
-              "terminal",
-              "terminal-emulators",
-              "tty"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 HackerRank challenges for Bash with solutions",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Complete Solutions and related tutorials  for the Linux Shell - Bash, text processing, Arrays in Bash, Grep Sed Awk Challenges on HackerRank",
-            "homepage": null,
-            "id": 117837470,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2024-04-16T21:18:35Z",
-            "open_issues": 1,
-            "owner": "Thomas-George-T",
-            "repo": "HackerRank-The-Linux-Shell-Challenges-Solutions",
-            "stars": 112,
-            "topics": [
-              "awk",
-              "bash",
-              "challenge",
-              "cut",
-              "grep",
-              "hackerrank",
-              "hackerrank-solutions",
-              "head",
-              "linux",
-              "linux-shell",
-              "paste",
-              "sed",
-              "shell",
-              "sort",
-              "tail",
-              "text-processing",
-              "tr",
-              "tutorial",
-              "uniq",
-              "unix"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome SSH – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":computer: A curated list of SSH resources.",
-            "homepage": "https://manfred.life/awesome-ssh",
-            "id": 49391609,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2023-08-10T10:15:24Z",
-            "open_issues": 51,
-            "owner": "moul",
-            "repo": "awesome-ssh",
-            "stars": 2847,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "devops",
-              "list",
-              "mosh",
-              "openssh",
-              "ssh",
-              "ssh-agent",
-              "ssh-key",
-              "ssh-keys",
-              "ssh-keyscan"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome console services – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
-            "homepage": null,
-            "id": 85309968,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2026-02-01T08:49:45Z",
-            "open_issues": 28,
-            "owner": "chubin",
-            "repo": "awesome-console-services",
-            "stars": 6539,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "curl",
-              "resources",
-              "terminal"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 JavaScript Data Structures and Algorithms – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-            "homepage": null,
-            "id": 126577260,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-07-26T02:43:08Z",
-            "open_issues": 408,
-            "owner": "trekhleb",
-            "repo": "javascript-algorithms",
-            "stars": 196865,
-            "topics": [
-              "algorithm",
-              "algorithms",
-              "computer-science",
-              "data-structures",
-              "interview",
-              "interview-preparation",
-              "javascript",
-              "javascript-algorithms"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Go Data Structures – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more",
-            "homepage": null,
-            "id": 31660590,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2025-03-12T00:01:29Z",
-            "open_issues": 74,
-            "owner": "emirpasic",
-            "repo": "gods",
-            "stars": 17464,
-            "topics": [
-              "avl-tree",
-              "b-tree",
-              "binary-heap",
-              "data-structure",
-              "enumerable",
-              "go",
-              "golang",
-              "iterator",
-              "list",
-              "map",
-              "queue",
-              "red-black-tree",
-              "set",
-              "sort",
-              "stack",
-              "tree"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Code for the book Grokking Algorithms – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)",
-            "homepage": null,
-            "id": 52999018,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-04-12T21:10:55Z",
-            "open_issues": 6,
-            "owner": "egonSchiele",
-            "repo": "grokking_algorithms",
-            "stars": 13703,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
+      "title": "General knowledge"
     },
     {
       "description": "At this stage you have to choose one programming language to study. There is plenty of information on various languages in the Internet (books, courses, thematic sites, etc.), so you should have no problem finding information.\nBelow is a list of specific languages that personally, in my opinion are good for backend development (⚠️ may not agree with the opinions of others, including those more competent in this matter).\nFind a good book or online tutorial in English at this repository. There is a large collection for different languages and frameworks.\nLook for a special awesome repository - a resource that contains a huge number of useful links to materials for your language (libraries, cheat sheets, blogs, and other various resources).",
@@ -457,12 +477,12 @@
         {
           "node_type": "item",
           "title": "By foundations are meant some fundamental ideas present in every language.",
-          "description": null,
+          "description": "codecrafters-io/build-your-own-x",
           "children": [
             {
               "node_type": "item",
               "title": "Regular expressions",
-              "description": null,
+              "description": "cheatsnake/regex-by-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +518,7 @@
             "open_issues": 666,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 551126,
+            "stars": 551245,
             "topics": [
               "awesome-list",
               "free",
@@ -511,6 +531,171 @@
           "first_seen": "2026-08-28T14:23:54.254Z"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 List of libraries for working with network in Go – GitHub",
+              "description": "avelino/awesome-go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome Go frameworks, libraries and software",
+                "homepage": "https://awesome-go.com",
+                "id": 21540759,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-10-03T00:11:10Z",
+                "open_issues": 234,
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 186646,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "go",
+                  "golang",
+                  "golang-library",
+                  "hacktoberfest"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 A curated list of awesome things related to Django – GitHub",
+              "description": "wsvincent/awesome-django",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome things related to Django",
+                "homepage": "http://awesomedjango.org",
+                "id": 129094260,
+                "language": "Python",
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-16T14:16:35Z",
+                "open_issues": 5,
+                "owner": "wsvincent",
+                "repo": "awesome-django",
+                "stars": 11268,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "django"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 A curated list of awesome Express.js resources – GitHub",
+              "description": "rajikaimal/awesome-express",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":octocat: A curated list of awesome express.js resources",
+                "homepage": null,
+                "id": 60465631,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-08-22T20:05:00Z",
+                "open_issues": 8,
+                "owner": "rajikaimal",
+                "repo": "awesome-express",
+                "stars": 866,
+                "topics": [
+                  "articles",
+                  "expressjs",
+                  "fundamentals",
+                  "nodejs",
+                  "resources",
+                  "tutorials"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Node.js HTTP Server Examples – GitHub",
+              "description": "HowProgrammingWorks/NodeServer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Compare node.js servers",
+                "homepage": "https://www.youtube.com/TimurShemsedinov",
+                "id": 42374167,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-02-11T22:07:37Z",
+                "open_issues": 6,
+                "owner": "HowProgrammingWorks",
+                "repo": "NodeServer",
+                "stars": 95,
+                "topics": [
+                  "child-process",
+                  "cluster",
+                  "http",
+                  "nodejs",
+                  "project",
+                  "routing",
+                  "server"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Multithreading in practice – GitHub",
+              "description": "thanhit95/multi-threading",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Practical multithreading tutorials. Languages supported: C++, Java, C#, Python, Javascript/Nodejs.",
+                "homepage": null,
+                "id": 372698819,
+                "language": "C++",
+                "license": "BSD-3-Clause",
+                "last_commit": "2024-02-27T15:27:56Z",
+                "open_issues": 0,
+                "owner": "thanhit95",
+                "repo": "multi-threading",
+                "stars": 199,
+                "topics": [
+                  "blocking-queue",
+                  "concurrency",
+                  "cpp",
+                  "csharp",
+                  "java",
+                  "javascript",
+                  "multithreading",
+                  "mutex",
+                  "nodejs",
+                  "producer-consumer",
+                  "pthread",
+                  "python",
+                  "semaphore",
+                  "synchronization",
+                  "thread",
+                  "thread-pool",
+                  "threading",
+                  "tutorial",
+                  "worker"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
           "node_type": "group",
           "title": "During these long years that programming has existed, a huge amount of code, programs, and entire systems have been written. And as a consequence, there have been all sorts of problems in the development of all this. First of all they were related to scaling, support, and the entry threshold for new developers. Clever people, of course, did not sit still and started to solve these problems, thus creating so-called patterns/principles/approaches for writing high-quality code.",
           "description": null,
@@ -518,7 +703,7 @@
             {
               "node_type": "item",
               "title": "JavaScript style guide by Airbnb",
-              "description": null,
+              "description": "airbnb/javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -528,10 +713,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-04-16T19:24:09Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "airbnb",
                 "repo": "javascript",
-                "stars": 148307,
+                "stars": 148300,
                 "topics": [
                   "arrow-functions",
                   "es2015",
@@ -554,7 +739,7 @@
             {
               "node_type": "item",
               "title": "Node.js best practices list",
-              "description": null,
+              "description": "goldbergyoni/nodebestpractices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -567,7 +752,7 @@
                 "open_issues": 137,
                 "owner": "goldbergyoni",
                 "repo": "nodebestpractices",
-                "stars": 105652,
+                "stars": 105651,
                 "topics": [
                   "best-practices",
                   "es6",
@@ -594,7 +779,7 @@
             {
               "node_type": "item",
               "title": "Python style guide by Google",
-              "description": null,
+              "description": "google/styleguide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -604,10 +789,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T18:32:00Z",
-                "open_issues": 171,
+                "open_issues": 170,
                 "owner": "google",
                 "repo": "styleguide",
-                "stars": 39641,
+                "stars": 39647,
                 "topics": [
                   "cpplint",
                   "style-guide",
@@ -619,7 +804,7 @@
             {
               "node_type": "item",
               "title": "Python best practices guidebook",
-              "description": null,
+              "description": "realpython/python-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -632,7 +817,7 @@
                 "open_issues": 136,
                 "owner": "realpython",
                 "repo": "python-guide",
-                "stars": 29837,
+                "stars": 29835,
                 "topics": [
                   "book",
                   "guide",
@@ -644,7 +829,7 @@
             {
               "node_type": "item",
               "title": "Go style guide by Uber",
-              "description": null,
+              "description": "uber-go/guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -657,7 +842,7 @@
                 "open_issues": 39,
                 "owner": "uber-go",
                 "repo": "guide",
-                "stars": 17735,
+                "stars": 17733,
                 "topics": [
                   "best-practices",
                   "go",
@@ -670,7 +855,7 @@
             {
               "node_type": "item",
               "title": "and other…",
-              "description": null,
+              "description": "kciter/awesome-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -695,203 +880,41 @@
               "first_seen": "2026-08-28T14:23:54.254Z"
             }
           ]
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Google style guides – GitHub",
+              "description": "google/styleguide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Style guides for Google-originated open-source projects",
+                "homepage": "https://google.github.io/styleguide/",
+                "id": 35969061,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-01T18:32:00Z",
+                "open_issues": 170,
+                "owner": "google",
+                "repo": "styleguide",
+                "stars": 39647,
+                "topics": [
+                  "cpplint",
+                  "style-guide",
+                  "styleguide"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
       "title": "Programming Language"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 List of libraries for working with network in Go – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Go frameworks, libraries and software",
-            "homepage": "https://awesome-go.com",
-            "id": 21540759,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-10-01T17:22:30Z",
-            "open_issues": 235,
-            "owner": "avelino",
-            "repo": "awesome-go",
-            "stars": 186515,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "go",
-              "golang",
-              "golang-library",
-              "hacktoberfest"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 A curated list of awesome things related to Django – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome things related to Django",
-            "homepage": "http://awesomedjango.org",
-            "id": 129094260,
-            "language": "Python",
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-16T14:16:35Z",
-            "open_issues": 4,
-            "owner": "wsvincent",
-            "repo": "awesome-django",
-            "stars": 11266,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "django"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 A curated list of awesome Express.js resources – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":octocat: A curated list of awesome express.js resources",
-            "homepage": null,
-            "id": 60465631,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-08-22T20:05:00Z",
-            "open_issues": 8,
-            "owner": "rajikaimal",
-            "repo": "awesome-express",
-            "stars": 865,
-            "topics": [
-              "articles",
-              "expressjs",
-              "fundamentals",
-              "nodejs",
-              "resources",
-              "tutorials"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Node.js HTTP Server Examples – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Compare node.js servers",
-            "homepage": "https://www.youtube.com/TimurShemsedinov",
-            "id": 42374167,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-02-11T22:07:37Z",
-            "open_issues": 6,
-            "owner": "HowProgrammingWorks",
-            "repo": "NodeServer",
-            "stars": 95,
-            "topics": [
-              "child-process",
-              "cluster",
-              "http",
-              "nodejs",
-              "project",
-              "routing",
-              "server"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Multithreading in practice – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Practical multithreading tutorials. Languages supported: C++, Java, C#, Python, Javascript/Nodejs.",
-            "homepage": null,
-            "id": 372698819,
-            "language": "C++",
-            "license": "BSD-3-Clause",
-            "last_commit": "2024-02-27T15:27:56Z",
-            "open_issues": 0,
-            "owner": "thanhit95",
-            "repo": "multi-threading",
-            "stars": 200,
-            "topics": [
-              "blocking-queue",
-              "concurrency",
-              "cpp",
-              "csharp",
-              "java",
-              "javascript",
-              "multithreading",
-              "mutex",
-              "nodejs",
-              "producer-consumer",
-              "pthread",
-              "python",
-              "semaphore",
-              "synchronization",
-              "thread",
-              "thread-pool",
-              "threading",
-              "tutorial",
-              "worker"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Google style guides – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Style guides for Google-originated open-source projects",
-            "homepage": "https://google.github.io/styleguide/",
-            "id": 35969061,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-01T18:32:00Z",
-            "open_issues": 171,
-            "owner": "google",
-            "repo": "styleguide",
-            "stars": 39641,
-            "topics": [
-              "cpplint",
-              "style-guide",
-              "styleguide"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
     },
     {
       "description": "Databases (DB) – a set of data that are organized according to certain rules (for example, a library is a database for books).\nDatabase management system (DBMS) is a software that allows you to create a database and manipulate it conveniently (perform various operations on the data). An example of a DBMS is a librarian. He can easily and efficiently work with the books in the library: give out requested books, take them back, add new ones, etc.",
@@ -904,7 +927,7 @@
             {
               "node_type": "item",
               "title": "SQL basics",
-              "description": null,
+              "description": "cheatsnake/sql-by-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,104 +954,107 @@
               "first_seen": "2026-08-28T14:23:54.254Z"
             }
           ]
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome SQL – GitHub",
+              "description": "danhuss/awesome-sql",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "List of tools and techniques for working with relational databases.",
+                "homepage": null,
+                "id": 27949400,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-04-25T14:15:25Z",
+                "open_issues": 30,
+                "owner": "danhuss",
+                "repo": "awesome-sql",
+                "stars": 452,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "database",
+                  "oracle",
+                  "postgresql",
+                  "sql",
+                  "sql-server"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome MongoDB – GitHub",
+              "description": "ramnes/awesome-mongodb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
+                "homepage": null,
+                "id": 52230198,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-18T11:22:51Z",
+                "open_issues": 11,
+                "owner": "ramnes",
+                "repo": "awesome-mongodb",
+                "stars": 2676,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "mongodb",
+                  "mongodb-resources"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Redis – GitHub",
+              "description": "JamzyWang/awesome-redis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of amazingly awesome redis and redis ecosystem resources. ",
+                "homepage": null,
+                "id": 18005221,
+                "language": null,
+                "license": null,
+                "last_commit": "2024-04-16T17:08:56Z",
+                "open_issues": 9,
+                "owner": "JamzyWang",
+                "repo": "awesome-redis",
+                "stars": 746,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
       "title": "Databases"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome SQL – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of tools and techniques for working with relational databases.",
-            "homepage": null,
-            "id": 27949400,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-04-25T14:15:25Z",
-            "open_issues": 30,
-            "owner": "danhuss",
-            "repo": "awesome-sql",
-            "stars": 452,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "database",
-              "oracle",
-              "postgresql",
-              "sql",
-              "sql-server"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome MongoDB – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":leaves: A curated list of awesome MongoDB resources, libraries, tools and applications",
-            "homepage": null,
-            "id": 52230198,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-18T11:22:51Z",
-            "open_issues": 11,
-            "owner": "ramnes",
-            "repo": "awesome-mongodb",
-            "stars": 2676,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "list",
-              "mongodb",
-              "mongodb-resources"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Redis – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome redis and redis ecosystem resources. ",
-            "homepage": null,
-            "id": 18005221,
-            "language": null,
-            "license": null,
-            "last_commit": "2024-04-16T17:08:56Z",
-            "open_issues": 9,
-            "owner": "JamzyWang",
-            "repo": "awesome-redis",
-            "stars": 746,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
     },
     {
       "description": "API (Application Programming Interface) an interface which describes a certain set of rules by which different programs (applications, bots, websites...) can interact with each other. With API calls you can execute certain functions of a program without knowing how it works.\nWhen developing server applications, different API formats can be used, depending on the tasks and requirements.",
@@ -1041,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "Versioning",
-              "description": null,
+              "description": "NationalBankBelgium/REST-API-Design-Guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1069,175 +1095,179 @@
               "first_seen": "2026-08-28T14:23:54.254Z"
             }
           ]
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome REST – GitHub",
+              "description": "marmelab/awesome-rest",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
+                "homepage": "https://github.com/marmelab/awesome-rest",
+                "id": 35204235,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-23T15:27:31Z",
+                "open_issues": 13,
+                "owner": "marmelab",
+                "repo": "awesome-rest",
+                "stars": 3918,
+                "topics": [
+                  "awesome",
+                  "rest"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 REST API design full guide – GitHub",
+              "description": "NationalBankBelgium/REST-API-Design-Guide",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "NBB's REST-ish API Design Guide",
+                "homepage": null,
+                "id": 70672155,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2018-11-29T09:59:18Z",
+                "open_issues": 8,
+                "owner": "NationalBankBelgium",
+                "repo": "REST-API-Design-Guide",
+                "stars": 825,
+                "topics": [
+                  "design",
+                  "design-pattern",
+                  "design-patterns",
+                  "rest",
+                  "rest-api",
+                  "restful",
+                  "restful-api",
+                  "restful-webservices"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome list of GraphQL – GitHub",
+              "description": "chentsulin/awesome-graphql",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Awesome list of GraphQL",
+                "homepage": null,
+                "id": 38958738,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-03T03:03:11Z",
+                "open_issues": 2,
+                "owner": "chentsulin",
+                "repo": "awesome-graphql",
+                "stars": 15129,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "graphql",
+                  "list"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome WebSockets – GitHub",
+              "description": "facundofarias/awesome-websockets",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of Websocket libraries and resources.",
+                "homepage": null,
+                "id": 74018561,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-17T08:38:52Z",
+                "open_issues": 6,
+                "owner": "facundofarias",
+                "repo": "awesome-websockets",
+                "stars": 1860,
+                "topics": [
+                  "html5-websockets",
+                  "node-websocket",
+                  "php-websocket",
+                  "websocket",
+                  "websocket-api",
+                  "websocket-chat",
+                  "websocket-client",
+                  "websocket-library",
+                  "websocket-node",
+                  "websocket-protocol",
+                  "websocket-rails",
+                  "websocket-server",
+                  "websocketd",
+                  "websockets"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome gRPC – GitHub",
+              "description": "grpc-ecosystem/awesome-grpc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of useful resources for gRPC",
+                "homepage": null,
+                "id": 103694867,
+                "language": null,
+                "license": "CC-BY-4.0",
+                "last_commit": "2025-10-28T00:53:09Z",
+                "open_issues": 28,
+                "owner": "grpc-ecosystem",
+                "repo": "awesome-grpc",
+                "stars": 8355,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "grpc",
+                  "protocol-buffers"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
       "title": "API development"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome REST – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collaborative list of great resources about RESTful API architecture, development, test, and performance",
-            "homepage": "https://github.com/marmelab/awesome-rest",
-            "id": 35204235,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-23T15:27:31Z",
-            "open_issues": 13,
-            "owner": "marmelab",
-            "repo": "awesome-rest",
-            "stars": 3918,
-            "topics": [
-              "awesome",
-              "rest"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 REST API design full guide – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "NBB's REST-ish API Design Guide",
-            "homepage": null,
-            "id": 70672155,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2018-11-29T09:59:18Z",
-            "open_issues": 8,
-            "owner": "NationalBankBelgium",
-            "repo": "REST-API-Design-Guide",
-            "stars": 825,
-            "topics": [
-              "design",
-              "design-pattern",
-              "design-patterns",
-              "rest",
-              "rest-api",
-              "restful",
-              "restful-api",
-              "restful-webservices"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome list of GraphQL – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome list of GraphQL",
-            "homepage": null,
-            "id": 38958738,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-28T13:07:01Z",
-            "open_issues": 2,
-            "owner": "chentsulin",
-            "repo": "awesome-graphql",
-            "stars": 15130,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "graphql",
-              "list"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome WebSockets – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Websocket libraries and resources.",
-            "homepage": null,
-            "id": 74018561,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-17T08:38:52Z",
-            "open_issues": 6,
-            "owner": "facundofarias",
-            "repo": "awesome-websockets",
-            "stars": 1859,
-            "topics": [
-              "html5-websockets",
-              "node-websocket",
-              "php-websocket",
-              "websocket",
-              "websocket-api",
-              "websocket-chat",
-              "websocket-client",
-              "websocket-library",
-              "websocket-node",
-              "websocket-protocol",
-              "websocket-rails",
-              "websocket-server",
-              "websocketd",
-              "websockets"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome gRPC – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of useful resources for gRPC",
-            "homepage": null,
-            "id": 103694867,
-            "language": null,
-            "license": "CC-BY-4.0",
-            "last_commit": "2025-10-28T00:53:09Z",
-            "open_issues": 28,
-            "owner": "grpc-ecosystem",
-            "repo": "awesome-grpc",
-            "stars": 8357,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "grpc",
-              "protocol-buffers"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
     },
     {
       "description": null,
@@ -1250,7 +1280,7 @@
             {
               "node_type": "item",
               "title": "Git style guide",
-              "description": null,
+              "description": "agis/git-style-guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1276,7 +1306,7 @@
             {
               "node_type": "item",
               "title": "Basic commands",
-              "description": null,
+              "description": "cheatsnake/quick-git",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1297,7 +1327,7 @@
             {
               "node_type": "item",
               "title": "Viewing commits & logs",
-              "description": null,
+              "description": "cheatsnake/quick-git",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1318,7 +1348,7 @@
             {
               "node_type": "item",
               "title": "Working with branches",
-              "description": null,
+              "description": "cheatsnake/quick-git",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1339,7 +1369,7 @@
             {
               "node_type": "item",
               "title": "Remote repositories",
-              "description": null,
+              "description": "cheatsnake/quick-git",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1360,7 +1390,7 @@
             {
               "node_type": "item",
               "title": "Commit deletions and rollbacks",
-              "description": null,
+              "description": "cheatsnake/quick-git",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1379,226 +1409,473 @@
               "first_seen": "2026-08-28T14:23:54.254Z"
             }
           ]
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Collection of .gitignore templates – GitHub",
+              "description": "github/gitignore",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A collection of useful .gitignore templates",
+                "homepage": null,
+                "id": 1062897,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-02T20:59:38Z",
+                "open_issues": 66,
+                "owner": "github",
+                "repo": "gitignore",
+                "stars": 176015,
+                "topics": [
+                  "git",
+                  "gitignore"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Learn Git concepts, not commands – GitHub",
+              "description": "UnseenWizzard/git_training",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An interactive git training meant to teach you how git works, not just which commands to execute",
+                "homepage": null,
+                "id": 167593617,
+                "language": null,
+                "license": "CC-BY-SA-4.0",
+                "last_commit": "2024-07-19T20:10:50Z",
+                "open_issues": 3,
+                "owner": "UnseenWizzard",
+                "repo": "git_training",
+                "stars": 756,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Docker – GitHub",
+              "description": "veggiemonk/awesome-docker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": ":whale: A curated list of Docker resources and projects",
+                "homepage": "https://average.joe.dev/awesome-docker/",
+                "id": 24297122,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-02T05:20:29Z",
+                "open_issues": 47,
+                "owner": "veggiemonk",
+                "repo": "awesome-docker",
+                "stars": 36949,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "container",
+                  "docker",
+                  "docker-api",
+                  "docker-container",
+                  "docker-deployment",
+                  "docker-environment",
+                  "docker-image",
+                  "docker-machine",
+                  "docker-monitoring",
+                  "docker-registry",
+                  "docker-security",
+                  "docker-swarm",
+                  "dockerfile",
+                  "list",
+                  "moby",
+                  "tools"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome NGINX – GitHub",
+              "description": "agile6v/awesome-nginx",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
+                "homepage": null,
+                "id": 40654944,
+                "language": "C",
+                "license": null,
+                "last_commit": "2026-09-29T15:18:29Z",
+                "open_issues": 5,
+                "owner": "agile6v",
+                "repo": "awesome-nginx",
+                "stars": 1295,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lua-nginx",
+                  "lua-resty",
+                  "nginx",
+                  "nginx-http",
+                  "nginx-server",
+                  "ngx-lua"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome ChatGPT Prompts – GitHub",
+              "description": "f/prompts.chat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+                "homepage": "https://prompts.chat",
+                "id": 574523116,
+                "language": "HTML",
+                "license": "NOASSERTION",
+                "last_commit": "2026-10-01T09:59:16Z",
+                "open_issues": 84,
+                "owner": "f",
+                "repo": "prompts.chat",
+                "stars": 171879,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "awesome-list",
+                  "chatgpt",
+                  "chatgpt-prompts",
+                  "claude",
+                  "gemini",
+                  "gpt",
+                  "gpt-4",
+                  "llm",
+                  "machine-learning",
+                  "nextjs",
+                  "open-source",
+                  "openai",
+                  "prompt-engineering",
+                  "prompts",
+                  "prompts-chat",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
       "title": "Software"
     },
     {
+      "description": "Testing is the process of assessing that all parts of the program behave as expected of them. Covering the product with the proper amount of testing, allows you to quickly check later to see if anything in the application is broken after adding new or changing old functionality.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Testing – GitHub",
+              "description": "TheJambo/awesome-testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of testing resources",
+                "homepage": "https://git.io/v1hSm",
+                "id": 77133957,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-10-01T22:12:14Z",
+                "open_issues": 0,
+                "owner": "TheJambo",
+                "repo": "awesome-testing",
+                "stars": 2380,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "naughty-strings",
+                  "tester",
+                  "testing"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
+        }
+      ],
+      "title": "Testing"
+    },
+    {
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "📄 Collection of .gitignore templates – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome AWS (list of libraries, open source repos, guides, blogs) – GitHub",
+              "description": "donnemartin/awesome-aws",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
+                "homepage": null,
+                "id": 44104712,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "open_issues": 103,
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14165,
+                "topics": [
+                  "aws",
+                  "aws-cli",
+                  "aws-sdk",
+                  "cloud",
+                  "cloud-management",
+                  "cloudformation",
+                  "cloudwatch",
+                  "dynamodb",
+                  "ec2",
+                  "ecs",
+                  "elasticsearch",
+                  "iam",
+                  "kinesis",
+                  "lambda",
+                  "machine-learning",
+                  "rds",
+                  "redshift",
+                  "route53",
+                  "s3",
+                  "serverless"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Google Cloud Platform – GitHub",
+              "description": "GoogleCloudPlatform/awesome-google-cloud",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A curated list of awesome stuff for Google Cloud.",
+                "homepage": null,
+                "id": 65946967,
+                "language": null,
+                "license": "CC-BY-4.0",
+                "last_commit": "2024-05-30T16:03:07Z",
+                "open_issues": 3,
+                "owner": "GoogleCloudPlatform",
+                "repo": "awesome-google-cloud",
+                "stars": 916,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "google-cloud"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Digital Ocean – GitHub",
+              "description": "jonleibowitz/awesome-digitalocean",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
+                "homepage": null,
+                "id": 71426860,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2021-04-30T21:49:21Z",
+                "open_issues": 3,
+                "owner": "jonleibowitz",
+                "repo": "awesome-digitalocean",
+                "stars": 381,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "cloud-computing",
+                  "digitalocean",
+                  "hacktoberfest",
+                  "infrastructure"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of useful .gitignore templates",
-            "homepage": null,
-            "id": 1062897,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-09-28T17:05:47Z",
-            "open_issues": 73,
-            "owner": "github",
-            "repo": "gitignore",
-            "stars": 176006,
-            "topics": [
-              "git",
-              "gitignore"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
+          "node_type": "group",
+          "title": "🔗 References"
         },
         {
-          "node_type": "item",
-          "title": "📄 Learn Git concepts, not commands – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Kubernetes Learning Roadmap – GitHub",
+              "description": "techiescamp/kubernetes-learning-path",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
+                "homepage": "https://devopscube.com/learn-kubernetes-complete-roadmap/",
+                "id": 566639549,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-24T07:35:04Z",
+                "open_issues": 2,
+                "owner": "techiescamp",
+                "repo": "kubernetes-learning-path",
+                "stars": 7640,
+                "topics": [
+                  "k8s",
+                  "kubernetes",
+                  "kubernetes-cluster",
+                  "kubernetes-deployment",
+                  "kubernetes-learning",
+                  "kubernetes-learning-apth",
+                  "kubernetes-security",
+                  "kubernetes-setup"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Kubernetes Resources – GitHub",
+              "description": "tomhuang12/awesome-k8s-resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome Kubernetes tools and resources.",
+                "homepage": null,
+                "id": 277397770,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2025-05-20T14:54:06Z",
+                "open_issues": 78,
+                "owner": "tomhuang12",
+                "repo": "awesome-k8s-resources",
+                "stars": 4236,
+                "topics": [
+                  "awesome-list",
+                  "kubernetes",
+                  "kubernetes-clusters",
+                  "kubernetes-networking",
+                  "kubernetes-operational",
+                  "kubernetes-resources",
+                  "list"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Swarm – GitHub",
+              "description": "BretFisher/awesome-swarm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
+                "homepage": null,
+                "id": 602344007,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2026-08-19T20:38:54Z",
+                "open_issues": 7,
+                "owner": "BretFisher",
+                "repo": "awesome-swarm",
+                "stars": 750,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "containers",
+                  "docker",
+                  "docker-swarm",
+                  "orchestration",
+                  "orchestrator",
+                  "swarm",
+                  "swarmkit"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An interactive git training meant to teach you how git works, not just which commands to execute",
-            "homepage": null,
-            "id": 167593617,
-            "language": null,
-            "license": "CC-BY-SA-4.0",
-            "last_commit": "2024-07-19T20:10:50Z",
-            "open_issues": 3,
-            "owner": "UnseenWizzard",
-            "repo": "git_training",
-            "stars": 756,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
+          "node_type": "group",
+          "title": "🔗 References"
+        },
         {
-          "node_type": "item",
-          "title": "📄 Awesome Docker – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome GitHub Actions – GitHub",
+              "description": "sdras/awesome-actions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome actions to use on GitHub",
+                "homepage": null,
+                "id": 153500249,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2024-09-01T20:32:39Z",
+                "open_issues": 328,
+                "owner": "sdras",
+                "repo": "awesome-actions",
+                "stars": 28282,
+                "topics": [
+                  "actions",
+                  "actions-list",
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "curated-list",
+                  "github",
+                  "github-actions"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":whale: A curated list of Docker resources and projects",
-            "homepage": "https://average.joe.dev/awesome-docker/",
-            "id": 24297122,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:20:29Z",
-            "open_issues": 45,
-            "owner": "veggiemonk",
-            "repo": "awesome-docker",
-            "stars": 36942,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "container",
-              "docker",
-              "docker-api",
-              "docker-container",
-              "docker-deployment",
-              "docker-environment",
-              "docker-image",
-              "docker-machine",
-              "docker-monitoring",
-              "docker-registry",
-              "docker-security",
-              "docker-swarm",
-              "dockerfile",
-              "list",
-              "moby",
-              "tools"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome NGINX – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  ",
-            "homepage": null,
-            "id": 40654944,
-            "language": "C",
-            "license": null,
-            "last_commit": "2026-09-29T15:18:29Z",
-            "open_issues": 5,
-            "owner": "agile6v",
-            "repo": "awesome-nginx",
-            "stars": 1295,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "lua-nginx",
-              "lua-resty",
-              "nginx",
-              "nginx-http",
-              "nginx-server",
-              "ngx-lua"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome ChatGPT Prompts – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-            "homepage": "https://prompts.chat",
-            "id": 574523116,
-            "language": "HTML",
-            "license": "NOASSERTION",
-            "last_commit": "2026-10-01T09:59:16Z",
-            "open_issues": 83,
-            "owner": "f",
-            "repo": "prompts.chat",
-            "stars": 171845,
-            "topics": [
-              "ai",
-              "artificial-intelligence",
-              "awesome-list",
-              "chatgpt",
-              "chatgpt-prompts",
-              "claude",
-              "gemini",
-              "gpt",
-              "gpt-4",
-              "llm",
-              "machine-learning",
-              "nextjs",
-              "open-source",
-              "openai",
-              "prompt-engineering",
-              "prompts",
-              "prompts-chat",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Testing – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of testing resources",
-            "homepage": "https://git.io/v1hSm",
-            "id": 77133957,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-10-01T22:12:14Z",
-            "open_issues": 0,
-            "owner": "TheJambo",
-            "repo": "awesome-testing",
-            "stars": 2381,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "list",
-              "naughty-strings",
-              "tester",
-              "testing"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
+          "node_type": "group",
+          "title": "🔗 References"
+        },
         {
           "node_type": "group",
           "title": "Logs capture detailed information about events, errors, and activities within your applications, facilitating troubleshooting and debugging processes. They provide a historical record of system behavior, allowing you to investigate issues, understand root causes, and improve overall system reliability and stability.",
@@ -1607,7 +1884,7 @@
             {
               "node_type": "item",
               "title": "Graylog",
-              "description": null,
+              "description": "Graylog2/graylog2-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1616,7 +1893,7 @@
                 "id": 671825,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:33:07Z",
+                "last_commit": "2026-10-02T20:06:25Z",
                 "open_issues": 2078,
                 "owner": "Graylog2",
                 "repo": "graylog2-server",
@@ -1642,6 +1919,68 @@
               "first_seen": "2026-08-28T14:23:54.254Z"
             }
           ]
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Elasticsearch – GitHub",
+              "description": "dzharii/awesome-elasticsearch",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!",
+                "homepage": null,
+                "id": 45813807,
+                "language": null,
+                "license": "Unlicense",
+                "last_commit": "2025-05-07T23:28:38Z",
+                "open_issues": 3,
+                "owner": "dzharii",
+                "repo": "awesome-elasticsearch",
+                "stars": 5059,
+                "topics": [
+                  "awesome",
+                  "database",
+                  "elastalert",
+                  "elasticsearch",
+                  "elasticsearch-cluster",
+                  "elasticsearch-configuration",
+                  "kibana",
+                  "logstash",
+                  "lucene",
+                  "nosql",
+                  "query-elasticsearch",
+                  "search"
+                ]
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📄 Awesome Prometheus – GitHub",
+              "description": "roaldnefs/awesome-prometheus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A curated list of awesome Prometheus resources, projects and tools.",
+                "homepage": null,
+                "id": 968605138,
+                "language": null,
+                "license": "CC0-1.0",
+                "last_commit": "2024-07-30T18:33:53Z",
+                "open_issues": 3,
+                "owner": "roaldnefs",
+                "repo": "awesome-prometheus",
+                "stars": 89,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🔗 References"
         }
       ],
       "title": "Deployment (CI/CD)"
@@ -1650,299 +1989,33 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "📄 Awesome AWS (list of libraries, open source repos, guides, blogs) – GitHub",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📄 Awesome utilities for performance profiling – GitHub",
+              "description": "msaroufim/awesome-profiling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Awesome utilities for performance profiling",
+                "homepage": null,
+                "id": 461708704,
+                "language": null,
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-10T17:45:50Z",
+                "open_issues": 2,
+                "owner": "msaroufim",
+                "repo": "awesome-profiling",
+                "stars": 209,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:23:54.254Z"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
-            "homepage": null,
-            "id": 44104712,
-            "language": "Python",
-            "license": "NOASSERTION",
-            "last_commit": "2024-03-12T09:29:54Z",
-            "open_issues": 103,
-            "owner": "donnemartin",
-            "repo": "awesome-aws",
-            "stars": 14165,
-            "topics": [
-              "aws",
-              "aws-cli",
-              "aws-sdk",
-              "cloud",
-              "cloud-management",
-              "cloudformation",
-              "cloudwatch",
-              "dynamodb",
-              "ec2",
-              "ecs",
-              "elasticsearch",
-              "iam",
-              "kinesis",
-              "lambda",
-              "machine-learning",
-              "rds",
-              "redshift",
-              "route53",
-              "s3",
-              "serverless"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
+          "node_type": "group",
+          "title": "🔗 References"
         },
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Google Cloud Platform – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A curated list of awesome stuff for Google Cloud.",
-            "homepage": null,
-            "id": 65946967,
-            "language": null,
-            "license": "CC-BY-4.0",
-            "last_commit": "2024-05-30T16:03:07Z",
-            "open_issues": 3,
-            "owner": "GoogleCloudPlatform",
-            "repo": "awesome-google-cloud",
-            "stars": 915,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "google-cloud"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Digital Ocean – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of amazingly awesome DigitalOcean resources inspired by Awesome Sysadmin",
-            "homepage": null,
-            "id": 71426860,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2021-04-30T21:49:21Z",
-            "open_issues": 3,
-            "owner": "jonleibowitz",
-            "repo": "awesome-digitalocean",
-            "stars": 381,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "cloud-computing",
-              "digitalocean",
-              "hacktoberfest",
-              "infrastructure"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Kubernetes Learning Roadmap – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
-            "homepage": "https://devopscube.com/learn-kubernetes-complete-roadmap/",
-            "id": 566639549,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-24T07:35:04Z",
-            "open_issues": 2,
-            "owner": "techiescamp",
-            "repo": "kubernetes-learning-path",
-            "stars": 7640,
-            "topics": [
-              "k8s",
-              "kubernetes",
-              "kubernetes-cluster",
-              "kubernetes-deployment",
-              "kubernetes-learning",
-              "kubernetes-learning-apth",
-              "kubernetes-security",
-              "kubernetes-setup"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Kubernetes Resources – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Kubernetes tools and resources.",
-            "homepage": null,
-            "id": 277397770,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2025-05-20T14:54:06Z",
-            "open_issues": 78,
-            "owner": "tomhuang12",
-            "repo": "awesome-k8s-resources",
-            "stars": 4236,
-            "topics": [
-              "awesome-list",
-              "kubernetes",
-              "kubernetes-clusters",
-              "kubernetes-networking",
-              "kubernetes-operational",
-              "kubernetes-resources",
-              "list"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Swarm – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "All the awesome tools, docs, and training on Docker and Mirantis Swarm Mode (SwarmKit)",
-            "homepage": null,
-            "id": 602344007,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2026-08-19T20:38:54Z",
-            "open_issues": 7,
-            "owner": "BretFisher",
-            "repo": "awesome-swarm",
-            "stars": 749,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "containers",
-              "docker",
-              "docker-swarm",
-              "orchestration",
-              "orchestrator",
-              "swarm",
-              "swarmkit"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome GitHub Actions – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome actions to use on GitHub",
-            "homepage": null,
-            "id": 153500249,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2024-09-01T20:32:39Z",
-            "open_issues": 327,
-            "owner": "sdras",
-            "repo": "awesome-actions",
-            "stars": 28279,
-            "topics": [
-              "actions",
-              "actions-list",
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "curated-list",
-              "github",
-              "github-actions"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Elasticsearch – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A curated list of the most important and useful resources about elasticsearch: articles, videos, blogs, tips and tricks, use cases. All about Elasticsearch!",
-            "homepage": null,
-            "id": 45813807,
-            "language": null,
-            "license": "Unlicense",
-            "last_commit": "2025-05-07T23:28:38Z",
-            "open_issues": 3,
-            "owner": "dzharii",
-            "repo": "awesome-elasticsearch",
-            "stars": 5059,
-            "topics": [
-              "awesome",
-              "database",
-              "elastalert",
-              "elasticsearch",
-              "elasticsearch-cluster",
-              "elasticsearch-configuration",
-              "kibana",
-              "logstash",
-              "lucene",
-              "nosql",
-              "query-elasticsearch",
-              "search"
-            ]
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        },
-        {
-          "node_type": "item",
-          "title": "📄 Awesome Prometheus – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of awesome Prometheus resources, projects and tools.",
-            "homepage": null,
-            "id": 968605138,
-            "language": null,
-            "license": "CC0-1.0",
-            "last_commit": "2024-07-30T18:33:53Z",
-            "open_issues": 3,
-            "owner": "roaldnefs",
-            "repo": "awesome-prometheus",
-            "stars": 90,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
         {
           "node_type": "item",
           "title": "Benchmark",
@@ -1956,7 +2029,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-11T12:48:44Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "denji",
             "repo": "awesome-http-benchmark",
             "stars": 3775,
@@ -1990,33 +2063,6 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "📄 Awesome utilities for performance profiling – GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome utilities for performance profiling",
-            "homepage": null,
-            "id": 461708704,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-04-10T17:45:50Z",
-            "open_issues": 2,
-            "owner": "msaroufim",
-            "repo": "awesome-profiling",
-            "stars": 209,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:23:54.254Z"
-        }
-      ],
-      "title": "🔗 References"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "node_type": "group",
           "title": "A standard in the development world. An incredibly simple, yet powerful markup language for describing your projects. As a matter of fact, the resource you are reading right now is written with Markdown",
           "description": ".",
@@ -2024,7 +2070,7 @@
             {
               "node_type": "item",
               "title": "Markdown cheatsheet",
-              "description": null,
+              "description": "adam-p/markdown-here",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2037,7 +2083,7 @@
                 "open_issues": 319,
                 "owner": "adam-p",
                 "repo": "markdown-here",
-                "stars": 60264,
+                "stars": 60262,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:23:54.254Z"
@@ -2045,7 +2091,7 @@
             {
               "node_type": "item",
               "title": "Awesome README",
-              "description": null,
+              "description": "matiassingers/awesome-readme",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2104,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21524,
+                "stars": 21530,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2071,7 +2117,7 @@
             {
               "node_type": "item",
               "title": "Awesome Markdown",
-              "description": null,
+              "description": "BubuAnabelas/awesome-markdown",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2108,7 +2154,7 @@
         {
           "node_type": "item",
           "title": "System Design 101: Explain complex systems using visuals and simple terms",
-          "description": null,
+          "description": "ByteByteGoHq/system-design-101",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2121,7 +2167,7 @@
             "open_issues": 69,
             "owner": "ByteByteGoHq",
             "repo": "system-design-101",
-            "stars": 90168,
+            "stars": 90180,
             "topics": [
               "aws",
               "cloud-computing",
@@ -2140,7 +2186,7 @@
         {
           "node_type": "item",
           "title": "Computer Science courses with video lectures",
-          "description": null,
+          "description": "Developer-Y/cs-video-courses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2153,7 +2199,7 @@
             "open_issues": 4,
             "owner": "Developer-Y",
             "repo": "cs-video-courses",
-            "stars": 83598,
+            "stars": 83600,
             "topics": [
               "algorithms",
               "bioinformatics",
@@ -2180,7 +2226,7 @@
         {
           "node_type": "item",
           "title": "System Design Course",
-          "description": null,
+          "description": "karanpratapsingh/system-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2193,7 +2239,7 @@
             "open_issues": 3,
             "owner": "karanpratapsingh",
             "repo": "system-design",
-            "stars": 46413,
+            "stars": 46416,
             "topics": [
               "architecture",
               "distributed-systems",
@@ -2212,7 +2258,7 @@
         {
           "node_type": "item",
           "title": "Awesome CTO – resources for Chief Technology Officers and VP R&D",
-          "description": null,
+          "description": "kuchin/awesome-cto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2225,7 +2271,7 @@
             "open_issues": 8,
             "owner": "kuchin",
             "repo": "awesome-cto",
-            "stars": 35539,
+            "stars": 35543,
             "topics": [
               "architecture",
               "awesome",
@@ -2248,7 +2294,7 @@
         {
           "node_type": "item",
           "title": "Awesome Sysadmin: A curated list of open source sysadmin resources",
-          "description": null,
+          "description": "awesome-foss/awesome-sysadmin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2261,7 +2307,7 @@
             "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35315,
+            "stars": 35319,
             "topics": [
               "awesome",
               "awesome-list",
@@ -2279,7 +2325,7 @@
         {
           "node_type": "item",
           "title": "How To Secure A Linux Server",
-          "description": null,
+          "description": "imthenachoman/How-To-Secure-A-Linux-Server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2292,7 +2338,7 @@
             "open_issues": 33,
             "owner": "imthenachoman",
             "repo": "How-To-Secure-A-Linux-Server",
-            "stars": 31741,
+            "stars": 31747,
             "topics": [
               "cc-by-sa",
               "hardening",
@@ -2309,7 +2355,7 @@
         {
           "node_type": "item",
           "title": "Domain-Driven Design, software architecture, design patterns, best practices",
-          "description": null,
+          "description": "Sairyss/domain-driven-hexagon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2351,7 +2397,7 @@
         {
           "node_type": "item",
           "title": "Mindmaps for cyber security",
-          "description": null,
+          "description": "Ignitetechnologies/Mindmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2364,7 +2410,7 @@
             "open_issues": 15,
             "owner": "Ignitetechnologies",
             "repo": "Mindmap",
-            "stars": 9340,
+            "stars": 9341,
             "topics": []
           },
           "first_seen": "2026-08-28T14:23:54.254Z"
@@ -2372,7 +2418,7 @@
         {
           "node_type": "item",
           "title": "A curated and opinionated list of resources for Backend developers",
-          "description": null,
+          "description": "zhashkevych/awesome-backend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2409,7 +2455,7 @@
         {
           "node_type": "item",
           "title": "Awesome Network Automation",
-          "description": null,
+          "description": "networktocode/awesome-network-automation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2433,7 +2479,7 @@
         {
           "node_type": "item",
           "title": "Best practices, tools, and guidelines for backend development",
-          "description": null,
+          "description": "Sairyss/backend-best-practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2446,7 +2492,7 @@
             "open_issues": 1,
             "owner": "Sairyss",
             "repo": "backend-best-practices",
-            "stars": 2382,
+            "stars": 2383,
             "topics": [
               "api",
               "backend",
@@ -2468,7 +2514,7 @@
         {
           "node_type": "item",
           "title": "Resources related to distributed systems, system design, microservices, scalability, and performance",
-          "description": null,
+          "description": "Sairyss/system-design-patterns",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2502,7 +2548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:36:33.449Z",
+    "last_updated": "2026-10-03T04:38:27.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "📃 White paper for Backend developers",
@@ -2514,7 +2560,7 @@
       "open_issues": 6,
       "owner": "cheatsnake",
       "repo": "backend-cheats",
-      "stars": 5212,
+      "stars": 5213,
       "topics": [
         "architectural-patterns",
         "architecture",
